@@ -2247,10 +2247,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.675,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "spirit-academy-vs-falcons-force-2026-10-30": {
@@ -2507,12 +2507,12 @@
 },
 "hacha-vs-wildcard-2026-10-31": {
 "slug": "hacha-vs-wildcard-2026-10-31",
-"ts": 1793463300,
+"ts": 1793465100,
 "t1": "Hacha",
 "t2": "Wildcard",
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
-"p1": 0.12,
+"p1": 0.119,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

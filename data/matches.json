@@ -2541,10 +2541,10 @@
 "tour": "Circuito Retake Season 13",
 "tslug": "circuito-retake-season-13",
 "p1": 0.725,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "og-vs-iberian-soul-2026-10-31": {
@@ -2658,5 +2658,33 @@
 "s2": 0,
 "ok": false,
 "noindex": true
+},
+"parivision-vs-g2-2026-11-02": {
+"slug": "parivision-vs-g2-2026-11-02",
+"ts": 1793593800,
+"t1": "PARIVISION",
+"t2": "G2",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.541,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"aurora-vs-liquid-2026-11-02": {
+"slug": "aurora-vs-liquid-2026-11-02",
+"ts": 1793593800,
+"t1": "Aurora",
+"t2": "Liquid",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.751,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

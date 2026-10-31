@@ -2387,10 +2387,10 @@
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
 "p1": 0.388,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 3,
+"ok": true,
 "noindex": false
 },
 "shinden-vs-isurus-2026-10-31": {

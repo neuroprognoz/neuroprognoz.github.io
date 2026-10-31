@@ -2555,10 +2555,10 @@
 "tour": "Circuito Retake Season 13",
 "tslug": "circuito-retake-season-13",
 "p1": 0.38,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "s-kerorg-vs-fortress-2026-10-31": {
@@ -2584,7 +2584,7 @@
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.384,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -2697,7 +2697,7 @@
 "p1": 0.698,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -2806,7 +2806,7 @@
 "t2": "Isurus",
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
-"p1": 0.878,
+"p1": 0.877,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

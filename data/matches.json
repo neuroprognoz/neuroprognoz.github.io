@@ -2513,10 +2513,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.119,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "baks-vs-fokus-2026-10-31": {
@@ -2714,5 +2714,33 @@
 "s2": 2,
 "ok": false,
 "noindex": true
+},
+"dendele-vs-naocopulas-2026-10-31": {
+"slug": "dendele-vs-naocopulas-2026-10-31",
+"ts": 1793476800,
+"t1": "DENDELE",
+"t2": "NAOCOPULAS",
+"tour": "Gamers Club Masters VII",
+"tslug": "gamers-club-masters-vii",
+"p1": 0.876,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"bestia-vs-procyon-2026-10-31": {
+"slug": "bestia-vs-procyon-2026-10-31",
+"ts": 1793475000,
+"t1": "BESTIA",
+"t2": "Procyon",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.744,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

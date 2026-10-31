@@ -2798,5 +2798,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"100-thieves-vs-isurus-2026-11-01": {
+"slug": "100-thieves-vs-isurus-2026-11-01",
+"ts": 1793484900,
+"t1": "100 Thieves",
+"t2": "Isurus",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.878,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"nrg-vs-wildcard-2026-11-01": {
+"slug": "nrg-vs-wildcard-2026-11-01",
+"ts": 1793484900,
+"t1": "NRG",
+"t2": "Wildcard",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.524,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

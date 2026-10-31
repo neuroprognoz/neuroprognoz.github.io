@@ -2700,5 +2700,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ducks-vs-prodigy-ru-2026-10-29": {
+"slug": "ducks-vs-prodigy-ru-2026-10-29",
+"ts": 1793301300,
+"t1": "Ducks",
+"t2": "prodigy RU",
+"tour": "CCT Europe 2026 Contenders 10",
+"tslug": "cct-europe-2026-contenders-10",
+"p1": 0.585,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
+"noindex": true
 }
 }

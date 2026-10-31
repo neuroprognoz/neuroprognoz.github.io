@@ -2723,10 +2723,10 @@
 "tour": "Gamers Club Masters VII",
 "tslug": "gamers-club-masters-vii",
 "p1": 0.876,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "bestia-vs-procyon-2026-10-31": {
@@ -2737,10 +2737,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.744,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "prodigy-ru-vs-monte-2026-10-31": {

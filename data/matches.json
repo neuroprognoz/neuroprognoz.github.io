@@ -3101,10 +3101,10 @@
 "tour": "EPIC.LAN 49",
 "tslug": "epic-lan-49",
 "p1": 0.449,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": false,
 "noindex": true
 },
 "gods-plan-vs-alka-2026-11-03": {

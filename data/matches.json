@@ -2892,7 +2892,7 @@
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.409,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": true
@@ -3131,7 +3131,7 @@
 "p1": 0.491,
 "st": "current",
 "s1": 0,
-"s2": 1,
+"s2": 2,
 "ok": null,
 "noindex": false
 },

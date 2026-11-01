@@ -3227,10 +3227,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.643,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "100-thieves-vs-wildcard-2026-11-01": {
@@ -3241,10 +3241,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.62,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 }
 }

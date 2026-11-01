@@ -3185,10 +3185,10 @@
 "tour": "CCT Europe 2026 Series 12",
 "tslug": "cct-europe-2026-series-12",
 "p1": 0.396,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "bestia-vs-barca-2026-11-02": {

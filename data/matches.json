@@ -3064,5 +3064,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"acend-vs-fokus-2026-11-01": {
+"slug": "acend-vs-fokus-2026-11-01",
+"ts": 1793541600,
+"t1": "Acend",
+"t2": "FOKUS",
+"tour": "CCT Europe 2026 Series 12",
+"tslug": "cct-europe-2026-series-12",
+"p1": 0.325,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"donstu-vs-misa-2026-11-01": {
+"slug": "donstu-vs-misa-2026-11-01",
+"ts": 1793545200,
+"t1": "DONSTU",
+"t2": "Misa",
+"tour": "CCT Europe 2026 Series 13 Play-In",
+"tslug": "cct-europe-2026-series-13-play-in",
+"p1": 0.44,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"ryvex-vs-the-pigs-2026-11-01": {
+"slug": "ryvex-vs-the-pigs-2026-11-01",
+"ts": 1793523600,
+"t1": "Ryvex",
+"t2": "The Pigs",
+"tour": "EPIC.LAN 49",
+"tslug": "epic-lan-49",
+"p1": 0.449,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

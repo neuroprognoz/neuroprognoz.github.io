@@ -2896,5 +2896,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"bestia-vs-100-thieves-2026-11-01": {
+"slug": "bestia-vs-100-thieves-2026-11-01",
+"ts": 1793541600,
+"t1": "BESTIA",
+"t2": "100 Thieves",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.363,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"jumbo-vs-ttg-esports-2026-11-01": {
+"slug": "jumbo-vs-ttg-esports-2026-11-01",
+"ts": 1793545200,
+"t1": "JUMBO",
+"t2": "TTG Esports",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.302,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

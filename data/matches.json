@@ -3129,10 +3129,10 @@
 "tour": "Circuito Retake Season 13",
 "tslug": "circuito-retake-season-13",
 "p1": 0.491,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 2,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "basement-boys-vs-toobisie-2026-10-30": {
@@ -3208,6 +3208,34 @@
 "100-thieves-vs-wildcard-2026-11-02": {
 "slug": "100-thieves-vs-wildcard-2026-11-02",
 "ts": 1793570400,
+"t1": "100 Thieves",
+"t2": "Wildcard",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.62,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"bestia-vs-barca-2026-11-01": {
+"slug": "bestia-vs-barca-2026-11-01",
+"ts": 1793563200,
+"t1": "BESTIA",
+"t2": "BARCA",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.643,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"100-thieves-vs-wildcard-2026-11-01": {
+"slug": "100-thieves-vs-wildcard-2026-11-01",
+"ts": 1793565000,
 "t1": "100 Thieves",
 "t2": "Wildcard",
 "tour": "FiReSPORTS Last Chance 2026",

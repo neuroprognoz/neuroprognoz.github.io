@@ -3120,5 +3120,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"jijiehao-vs-iberian-soul-2026-11-01": {
+"slug": "jijiehao-vs-iberian-soul-2026-11-01",
+"ts": 1793552400,
+"t1": "JiJieHao",
+"t2": "Iberian Soul",
+"tour": "Circuito Retake Season 13",
+"tslug": "circuito-retake-season-13",
+"p1": 0.491,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

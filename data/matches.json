@@ -3190,5 +3190,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"bestia-vs-barca-2026-11-02": {
+"slug": "bestia-vs-barca-2026-11-02",
+"ts": 1793566800,
+"t1": "BESTIA",
+"t2": "BARCA",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.643,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"100-thieves-vs-wildcard-2026-11-02": {
+"slug": "100-thieves-vs-wildcard-2026-11-02",
+"ts": 1793570400,
+"t1": "100 Thieves",
+"t2": "Wildcard",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.62,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -2907,7 +2907,7 @@
 "p1": 0.362,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -2919,7 +2919,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.302,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,

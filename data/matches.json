@@ -2891,10 +2891,10 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.409,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 1,
-"ok": null,
+"ok": false,
 "noindex": true
 },
 "bestia-vs-100-thieves-2026-11-01": {

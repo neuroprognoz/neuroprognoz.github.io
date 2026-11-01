@@ -3176,5 +3176,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"betclic-vs-fokus-2026-11-01": {
+"slug": "betclic-vs-fokus-2026-11-01",
+"ts": 1793556000,
+"t1": "Betclic",
+"t2": "FOKUS",
+"tour": "CCT Europe 2026 Series 12",
+"tslug": "cct-europe-2026-series-12",
+"p1": 0.396,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

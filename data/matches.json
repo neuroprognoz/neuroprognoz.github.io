@@ -2891,7 +2891,7 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.409,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -2947,10 +2947,10 @@
 "tour": "Gamers Club Masters VII",
 "tslug": "gamers-club-masters-vii",
 "p1": 0.391,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": true
 },
 "dendele-vs-imperial-2026-11-01": {
@@ -3133,6 +3133,20 @@
 "s1": 0,
 "s2": 0,
 "ok": null,
+"noindex": false
+},
+"basement-boys-vs-toobisie-2026-10-30": {
+"slug": "basement-boys-vs-toobisie-2026-10-30",
+"ts": 1793350800,
+"t1": "BASEMENT BOYS",
+"t2": "Toobisie",
+"tour": "Circuito Retake Season 13",
+"tslug": "circuito-retake-season-13",
+"p1": 0.528,
+"st": "finished",
+"s1": 0,
+"s2": 1,
+"ok": false,
 "noindex": false
 }
 }

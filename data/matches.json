@@ -3036,5 +3036,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"playing-ducks-vs-huskies-esport-2026-11-02": {
+"slug": "playing-ducks-vs-huskies-esport-2026-11-02",
+"ts": 1793646000,
+"t1": "Playing Ducks",
+"t2": "Huskies eSport",
+"tour": "DACH CS Masters Season 6",
+"tslug": "dach-cs-masters-season-6",
+"p1": 0.769,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"struggletony-vs-state-2026-11-02": {
+"slug": "struggletony-vs-state-2026-11-02",
+"ts": 1793646000,
+"t1": "struggletony",
+"t2": "STATE",
+"tour": "Dust2.dk Ligaen Season 33: Regular Season",
+"tslug": "dust2-dk-ligaen-season-33-regular-season",
+"p1": 0.212,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

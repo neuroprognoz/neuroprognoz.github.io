@@ -2924,5 +2924,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"barca-vs-wildcard-2026-11-01": {
+"slug": "barca-vs-wildcard-2026-11-01",
+"ts": 1793552400,
+"t1": "BARCA",
+"t2": "Wildcard",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.345,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

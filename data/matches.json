@@ -2933,10 +2933,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.359,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "naocopulas-vs-low-cortisol-br-2026-11-01": {
@@ -3170,7 +3170,7 @@
 "t2": "NuTorious",
 "tour": "NSTLGA Texas Open 2026",
 "tslug": "nstlga-texas-open-2026",
-"p1": 0.905,
+"p1": 0.893,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

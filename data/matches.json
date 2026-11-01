@@ -3073,10 +3073,10 @@
 "tour": "CCT Europe 2026 Series 12",
 "tslug": "cct-europe-2026-series-12",
 "p1": 0.325,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "donstu-vs-misa-2026-11-01": {
@@ -3087,10 +3087,10 @@
 "tour": "CCT Europe 2026 Series 13 Play-In",
 "tslug": "cct-europe-2026-series-13-play-in",
 "p1": 0.44,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "ryvex-vs-the-pigs-2026-11-01": {
@@ -3147,6 +3147,34 @@
 "s1": 0,
 "s2": 1,
 "ok": false,
+"noindex": false
+},
+"metizport-vs-wbt-academy-2026-11-01": {
+"slug": "metizport-vs-wbt-academy-2026-11-01",
+"ts": 1793559600,
+"t1": "Metizport",
+"t2": "WBT Academy",
+"tour": "Circuito Retake Season 13",
+"tslug": "circuito-retake-season-13",
+"p1": 0.709,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"lag-vs-nutorious-2026-11-02": {
+"slug": "lag-vs-nutorious-2026-11-02",
+"ts": 1793566800,
+"t1": "LAG",
+"t2": "NuTorious",
+"tour": "NSTLGA Texas Open 2026",
+"tslug": "nstlga-texas-open-2026",
+"p1": 0.905,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
 "noindex": false
 }
 }

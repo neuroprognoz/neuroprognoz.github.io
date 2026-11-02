@@ -3456,5 +3456,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"furia-vs-natus-vincere-2026-11-03": {
+"slug": "furia-vs-natus-vincere-2026-11-03",
+"ts": 1793698200,
+"t1": "FURIA",
+"t2": "Natus Vincere",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.536,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"faze-vs-falcons-2026-11-03": {
+"slug": "faze-vs-falcons-2026-11-03",
+"ts": 1793689200,
+"t1": "FaZe",
+"t2": "Falcons",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.283,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

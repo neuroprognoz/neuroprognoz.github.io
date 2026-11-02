@@ -3019,7 +3019,7 @@
 "p1": 0.454,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -3534,7 +3534,7 @@
 "t2": "MASQ",
 "tour": "Dust2.dk Ligaen Season 33: Regular Season",
 "tslug": "dust2-dk-ligaen-season-33-regular-season",
-"p1": 0.581,
+"p1": 0.587,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

@@ -2779,10 +2779,10 @@
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
 "p1": 0.408,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "imperial-vs-low-cortisol-br-2026-11-01": {

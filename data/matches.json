@@ -2611,10 +2611,10 @@
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
 "p1": 0.641,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "pain-vs-naocopulas-2026-10-29": {

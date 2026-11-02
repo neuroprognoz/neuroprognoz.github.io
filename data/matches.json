@@ -3171,10 +3171,10 @@
 "tour": "NSTLGA Texas Open 2026",
 "tslug": "nstlga-texas-open-2026",
 "p1": 0.893,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 3,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "betclic-vs-fokus-2026-11-01": {

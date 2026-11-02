@@ -3428,5 +3428,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"mouz-vs-betboom-2026-11-03": {
+"slug": "mouz-vs-betboom-2026-11-03",
+"ts": 1793680200,
+"t1": "MOUZ",
+"t2": "BetBoom",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.74,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"tyloo-vs-9z-2026-11-03": {
+"slug": "tyloo-vs-9z-2026-11-03",
+"ts": 1793680200,
+"t1": "TYLOO",
+"t2": "9z",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.348,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

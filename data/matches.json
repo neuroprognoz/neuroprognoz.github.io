@@ -2765,10 +2765,10 @@
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
 "p1": 0.754,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "9z-vs-betboom-2026-11-02": {
@@ -2857,7 +2857,7 @@
 },
 "natus-vincere-vs-falcons-2026-11-02": {
 "slug": "natus-vincere-vs-falcons-2026-11-02",
-"ts": 1793620800,
+"ts": 1793619900,
 "t1": "Natus Vincere",
 "t2": "Falcons",
 "tour": "Intel Extreme Masters Beijing 2026",
@@ -3380,7 +3380,7 @@
 "t2": "B8",
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
-"p1": 0.696,
+"p1": 0.702,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

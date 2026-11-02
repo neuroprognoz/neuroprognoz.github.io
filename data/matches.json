@@ -3344,5 +3344,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"oldboys-pl-vs-fire-flux-2026-11-03": {
+"slug": "oldboys-pl-vs-fire-flux-2026-11-03",
+"ts": 1793727000,
+"t1": "OLDBOYS PL",
+"t2": "Fire Flux",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.531,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

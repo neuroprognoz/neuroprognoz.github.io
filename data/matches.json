@@ -3031,10 +3031,10 @@
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.632,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "playing-ducks-vs-huskies-esport-2026-11-02": {
@@ -3492,7 +3492,7 @@
 "t2": "KUUSAMO",
 "tour": "ESL Challenger League Season 52: Europe - Cup 10",
 "tslug": "esl-challenger-league-season-52-europe-cup-10",
-"p1": 0.795,
+"p1": 0.822,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

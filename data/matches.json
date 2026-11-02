@@ -3540,5 +3540,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"mibr-fe-vs-rush-2026-11-03": {
+"slug": "mibr-fe-vs-rush-2026-11-03",
+"ts": 1793710800,
+"t1": "MIBR fe",
+"t2": "RUSH",
+"tour": "CCT South America 2026 Series 8",
+"tslug": "cct-south-america-2026-series-8",
+"p1": 0.414,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

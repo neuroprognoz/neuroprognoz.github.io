@@ -3526,5 +3526,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"masonic-vs-masq-2026-11-03": {
+"slug": "masonic-vs-masq-2026-11-03",
+"ts": 1793725200,
+"t1": "MASONIC",
+"t2": "MASQ",
+"tour": "Dust2.dk Ligaen Season 33: Regular Season",
+"tslug": "dust2-dk-ligaen-season-33-regular-season",
+"p1": 0.581,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

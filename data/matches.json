@@ -3330,5 +3330,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"boyband-vs-rounds-2026-11-03": {
+"slug": "boyband-vs-rounds-2026-11-03",
+"ts": 1793719800,
+"t1": "boyband",
+"t2": "ROUNDS",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.637,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

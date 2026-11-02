@@ -3325,10 +3325,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.459,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "boyband-vs-rounds-2026-11-03": {

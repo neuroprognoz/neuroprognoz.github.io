@@ -3372,5 +3372,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"legacy-vs-b8-2026-11-03": {
+"slug": "legacy-vs-b8-2026-11-03",
+"ts": 1793671200,
+"t1": "Legacy",
+"t2": "B8",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.696,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"liquid-vs-parivision-2026-11-03": {
+"slug": "liquid-vs-parivision-2026-11-03",
+"ts": 1793680200,
+"t1": "Liquid",
+"t2": "PARIVISION",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.432,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"aurora-vs-g2-2026-11-03": {
+"slug": "aurora-vs-g2-2026-11-03",
+"ts": 1793680200,
+"t1": "Aurora",
+"t2": "G2",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.665,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

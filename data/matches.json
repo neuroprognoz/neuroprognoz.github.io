@@ -3848,5 +3848,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"heroic-vs-falcons-2026-11-04": {
+"slug": "heroic-vs-falcons-2026-11-04",
+"ts": 1793766600,
+"t1": "HEROIC",
+"t2": "Falcons",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.353,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"liquid-vs-tyloo-2026-11-04": {
+"slug": "liquid-vs-tyloo-2026-11-04",
+"ts": 1793757600,
+"t1": "Liquid",
+"t2": "TYLOO",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.591,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

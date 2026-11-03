@@ -3381,10 +3381,10 @@
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
 "p1": 0.694,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "liquid-vs-parivision-2026-11-03": {
@@ -3646,7 +3646,7 @@
 "t2": "BOJONG",
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
-"p1": 0.383,
+"p1": 0.382,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

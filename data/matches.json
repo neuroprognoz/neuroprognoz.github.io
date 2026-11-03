@@ -3493,10 +3493,10 @@
 "tour": "ESL Challenger League Season 52: Europe - Cup 10",
 "tslug": "esl-challenger-league-season-52-europe-cup-10",
 "p1": 0.824,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "acend-vs-four-magic-2026-11-03": {
@@ -3592,7 +3592,7 @@
 "tslug": "fiesta-series-3",
 "p1": 0.613,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -3856,7 +3856,7 @@
 "t2": "Falcons",
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
-"p1": 0.353,
+"p1": 0.355,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

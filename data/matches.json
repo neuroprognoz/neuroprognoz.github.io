@@ -3605,10 +3605,10 @@
 "tour": "Fiesta Series 3",
 "tslug": "fiesta-series-3",
 "p1": 0.819,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "falcons-force-vs-xcity-2026-11-04": {

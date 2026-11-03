@@ -3646,7 +3646,7 @@
 "t2": "BOJONG",
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
-"p1": 0.385,
+"p1": 0.376,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -3759,10 +3759,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.383,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "vitality-academy-vs-99firepower-1utility-2026-11-03": {

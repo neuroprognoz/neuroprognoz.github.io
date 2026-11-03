@@ -3563,10 +3563,10 @@
 "tour": "Fiesta Series 3",
 "tslug": "fiesta-series-3",
 "p1": 0.482,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "genone-vs-lilmix-2026-11-03": {
@@ -3683,7 +3683,7 @@
 },
 "mouz-vs-parivision-2026-11-04": {
 "slug": "mouz-vs-parivision-2026-11-04",
-"ts": 1793784600,
+"ts": 1793775600,
 "t1": "MOUZ",
 "t2": "PARIVISION",
 "tour": "Intel Extreme Masters Beijing 2026",

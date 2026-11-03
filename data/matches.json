@@ -3646,7 +3646,7 @@
 "t2": "BOJONG",
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
-"p1": 0.376,
+"p1": 0.377,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -3974,5 +3974,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"borracheiros-vs-low-cortisol-br-2026-11-04": {
+"slug": "borracheiros-vs-low-cortisol-br-2026-11-04",
+"ts": 1793818800,
+"t1": "BORRACHEIROS",
+"t2": "Low Cortisol BR",
+"tour": "CCT South America 2026 Series 8",
+"tslug": "cct-south-america-2026-series-8",
+"p1": 0.525,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"isurus-vs-underworld-2026-11-05": {
+"slug": "isurus-vs-underworld-2026-11-05",
+"ts": 1793829600,
+"t1": "Isurus",
+"t2": "Underworld",
+"tour": "CCT South America 2026 Series 8",
+"tslug": "cct-south-america-2026-series-8",
+"p1": 0.64,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -3297,10 +3297,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.206,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "al-ahli-vs-fortress-2026-11-02": {
@@ -3599,7 +3599,7 @@
 },
 "9ine-vs-revise-2026-11-03": {
 "slug": "9ine-vs-revise-2026-11-03",
-"ts": 1793730600,
+"ts": 1793731500,
 "t1": "9INE",
 "t2": "Revise",
 "tour": "Fiesta Series 3",

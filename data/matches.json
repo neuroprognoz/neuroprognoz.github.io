@@ -3375,7 +3375,7 @@
 },
 "legacy-vs-b8-2026-11-03": {
 "slug": "legacy-vs-b8-2026-11-03",
-"ts": 1793700900,
+"ts": 1793702400,
 "t1": "Legacy",
 "t2": "B8",
 "tour": "Intel Extreme Masters Beijing 2026",
@@ -3688,7 +3688,7 @@
 "t2": "PARIVISION",
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
-"p1": 0.815,
+"p1": 0.81,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

@@ -3423,10 +3423,10 @@
 "tour": "CCT South America 2026 Series 8",
 "tslug": "cct-south-america-2026-series-8",
 "p1": 0.284,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "mouz-vs-betboom-2026-11-03": {
@@ -3646,7 +3646,7 @@
 "t2": "BOJONG",
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
-"p1": 0.377,
+"p1": 0.376,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -3675,10 +3675,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.443,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "mouz-vs-parivision-2026-11-04": {
@@ -3941,10 +3941,10 @@
 "tour": "ESL Challenger League Season 52: Europe - Cup 10",
 "tslug": "esl-challenger-league-season-52-europe-cup-10",
 "p1": 0.455,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "s-kerorg-vs-four-magic-2026-11-03": {

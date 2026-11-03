@@ -3479,10 +3479,10 @@
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
 "p1": 0.299,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "baks-vs-kuusamo-2026-11-03": {
@@ -3834,5 +3834,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"privateer-vs-aimers-2026-11-03": {
+"slug": "privateer-vs-aimers-2026-11-03",
+"ts": 1793734200,
+"t1": "Privateer",
+"t2": "aimers",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.668,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

@@ -3507,10 +3507,10 @@
 "tour": "ESL Challenger League Season 52: Europe - Cup 10",
 "tslug": "esl-challenger-league-season-52-europe-cup-10",
 "p1": 0.843,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "pcific-vs-falcons-force-2026-11-03": {
@@ -3646,7 +3646,7 @@
 "t2": "BOJONG",
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
-"p1": 0.382,
+"p1": 0.383,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

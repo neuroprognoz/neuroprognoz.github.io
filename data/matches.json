@@ -3890,5 +3890,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"natus-vincere-vs-b8-2026-11-04": {
+"slug": "natus-vincere-vs-b8-2026-11-04",
+"ts": 1793766600,
+"t1": "Natus Vincere",
+"t2": "B8",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.849,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"the-mongolz-vs-furia-2026-11-04": {
+"slug": "the-mongolz-vs-furia-2026-11-04",
+"ts": 1793784600,
+"t1": "The MongolZ",
+"t2": "FURIA",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.351,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"betboom-vs-aurora-2026-11-04": {
+"slug": "betboom-vs-aurora-2026-11-04",
+"ts": 1793757600,
+"t1": "BetBoom",
+"t2": "Aurora",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.487,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

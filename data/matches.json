@@ -3801,10 +3801,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.771,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "xcity-vs-al-ahli-2026-11-03": {
@@ -3843,10 +3843,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.668,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": true
 },
 "heroic-vs-falcons-2026-11-04": {
@@ -3898,7 +3898,7 @@
 "t2": "B8",
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
-"p1": 0.851,
+"p1": 0.85,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

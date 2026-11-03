@@ -3395,10 +3395,10 @@
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
 "p1": 0.417,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "aurora-vs-g2-2026-11-03": {
@@ -3431,7 +3431,7 @@
 },
 "mouz-vs-betboom-2026-11-03": {
 "slug": "mouz-vs-betboom-2026-11-03",
-"ts": 1793680200,
+"ts": 1793682600,
 "t1": "MOUZ",
 "t2": "BetBoom",
 "tour": "Intel Extreme Masters Beijing 2026",

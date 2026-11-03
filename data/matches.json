@@ -3876,5 +3876,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"big-academy-vs-regnum4games-2026-11-04": {
+"slug": "big-academy-vs-regnum4games-2026-11-04",
+"ts": 1793811600,
+"t1": "BIG Academy",
+"t2": "regnum4games",
+"tour": "DACH CS Masters Season 6",
+"tslug": "dach-cs-masters-season-6",
+"p1": 0.819,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

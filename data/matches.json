@@ -3554,5 +3554,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"quazar-vs-just-players-2026-11-03": {
+"slug": "quazar-vs-just-players-2026-11-03",
+"ts": 1793696400,
+"t1": "QUAZAR",
+"t2": "Just Players",
+"tour": "Fiesta Series 3",
+"tslug": "fiesta-series-3",
+"p1": 0.524,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"genone-vs-lilmix-2026-11-03": {
+"slug": "genone-vs-lilmix-2026-11-03",
+"ts": 1793707200,
+"t1": "GenOne",
+"t2": "Lilmix",
+"tour": "Fiesta Series 3",
+"tslug": "fiesta-series-3",
+"p1": 0.847,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"brute-vs-nexus-2026-11-03": {
+"slug": "brute-vs-nexus-2026-11-03",
+"ts": 1793718000,
+"t1": "BRUTE",
+"t2": "Nexus",
+"tour": "Fiesta Series 3",
+"tslug": "fiesta-series-3",
+"p1": 0.596,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"9ine-vs-revise-2026-11-03": {
+"slug": "9ine-vs-revise-2026-11-03",
+"ts": 1793728800,
+"t1": "9INE",
+"t2": "Revise",
+"tour": "Fiesta Series 3",
+"tslug": "fiesta-series-3",
+"p1": 0.805,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

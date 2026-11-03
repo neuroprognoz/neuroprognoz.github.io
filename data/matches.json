@@ -3437,10 +3437,10 @@
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
 "p1": 0.71,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "tyloo-vs-9z-2026-11-03": {
@@ -3562,7 +3562,7 @@
 "t2": "Just Players",
 "tour": "Fiesta Series 3",
 "tslug": "fiesta-series-3",
-"p1": 0.483,
+"p1": 0.482,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

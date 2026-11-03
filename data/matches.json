@@ -3624,5 +3624,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"havu-vs-rounds-2026-11-04": {
+"slug": "havu-vs-rounds-2026-11-04",
+"ts": 1793806200,
+"t1": "HAVU",
+"t2": "ROUNDS",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.832,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"sinqu-vs-bojong-2026-11-04": {
+"slug": "sinqu-vs-bojong-2026-11-04",
+"ts": 1793815200,
+"t1": "SINQU",
+"t2": "BOJONG",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.382,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

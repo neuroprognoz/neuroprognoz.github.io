@@ -4170,5 +4170,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"red-canids-academy-vs-underworld-2026-11-04": {
+"slug": "red-canids-academy-vs-underworld-2026-11-04",
+"ts": 1793817000,
+"t1": "RED Canids Academy",
+"t2": "Underworld",
+"tour": "Gamers Club Liga Série A: October 2026",
+"tslug": "gamers-club-liga-s-rie-a-october-2026",
+"p1": 0.721,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"quintess-ncia-vs-gr-mio-2026-11-05": {
+"slug": "quintess-ncia-vs-gr-mio-2026-11-05",
+"ts": 1793903400,
+"t1": "QUINTESSÊNCIA",
+"t2": "Grêmio",
+"tour": "Gamers Club Liga Série A: October 2026",
+"tslug": "gamers-club-liga-s-rie-a-october-2026",
+"p1": 0.57,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"borracheiros-vs-alka-2026-11-05": {
+"slug": "borracheiros-vs-alka-2026-11-05",
+"ts": 1793826000,
+"t1": "BORRACHEIROS",
+"t2": "ALKA",
+"tour": "Gamers Club Liga Série A: October 2026",
+"tslug": "gamers-club-liga-s-rie-a-october-2026",
+"p1": 0.584,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

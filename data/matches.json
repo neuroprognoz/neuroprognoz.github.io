@@ -4011,10 +4011,10 @@
 "tour": "Fiesta Series 3",
 "tslug": "fiesta-series-3",
 "p1": 0.894,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "liquid-vs-betboom-2026-11-04": {

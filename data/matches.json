@@ -4109,10 +4109,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.331,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "xcity-vs-ttg-esports-2026-11-04": {
@@ -4123,10 +4123,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.297,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": true
 },
 "ttg-esports-vs-dimonix-2026-11-04": {
@@ -4136,7 +4136,7 @@
 "t2": "DimoniX",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.794,
+"p1": 0.799,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

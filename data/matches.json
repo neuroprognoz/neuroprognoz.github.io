@@ -4072,5 +4072,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"nordic-valor-vs-boyband-2026-11-05": {
+"slug": "nordic-valor-vs-boyband-2026-11-05",
+"ts": 1793901600,
+"t1": "Nordic Valor",
+"t2": "boyband",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.232,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

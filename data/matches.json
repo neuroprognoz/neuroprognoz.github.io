@@ -4240,5 +4240,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"parivision-vs-natus-vincere-2026-11-06": {
+"slug": "parivision-vs-natus-vincere-2026-11-06",
+"ts": 1793946600,
+"t1": "PARIVISION",
+"t2": "Natus Vincere",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.302,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

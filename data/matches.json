@@ -4044,5 +4044,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"spirit-academy-vs-leo-2026-11-04": {
+"slug": "spirit-academy-vs-leo-2026-11-04",
+"ts": 1793782800,
+"t1": "Spirit Academy",
+"t2": "Leo",
+"tour": "NODWIN Clutch Series 14 Play-In",
+"tslug": "nodwin-clutch-series-14-play-in",
+"p1": 0.516,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"baks-vs-gothic-2026-11-04": {
+"slug": "baks-vs-gothic-2026-11-04",
+"ts": 1793782800,
+"t1": "BAKS",
+"t2": "Gothic",
+"tour": "CCT Europe 2026 Series 13",
+"tslug": "cct-europe-2026-series-13",
+"p1": 0.658,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

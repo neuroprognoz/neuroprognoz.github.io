@@ -3647,10 +3647,10 @@
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.425,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "meia-noite-vs-bestia-academy-2026-11-03": {
@@ -3996,7 +3996,7 @@
 "t2": "Underworld",
 "tour": "CCT South America 2026 Series 8",
 "tslug": "cct-south-america-2026-series-8",
-"p1": 0.597,
+"p1": 0.626,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -4179,10 +4179,10 @@
 "tour": "Gamers Club Liga Série A: October 2026",
 "tslug": "gamers-club-liga-s-rie-a-october-2026",
 "p1": 0.721,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "quintess-ncia-vs-gr-mio-2026-11-05": {

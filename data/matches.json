@@ -4053,10 +4053,10 @@
 "tour": "NODWIN Clutch Series 14 Play-In",
 "tslug": "nodwin-clutch-series-14-play-in",
 "p1": 0.516,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "baks-vs-gothic-2026-11-04": {

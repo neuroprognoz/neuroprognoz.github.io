@@ -3969,10 +3969,10 @@
 "tour": "MČR 2026",
 "tslug": "m-r-2026",
 "p1": 0.228,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": true
 },
 "borracheiros-vs-low-cortisol-br-2026-11-04": {
@@ -4235,10 +4235,10 @@
 "tour": "Fiesta Series 3",
 "tslug": "fiesta-series-3",
 "p1": 0.611,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "parivision-vs-natus-vincere-2026-11-06": {

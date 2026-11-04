@@ -4226,5 +4226,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"inox-division-vs-johnny-speeds-2026-11-04": {
+"slug": "inox-division-vs-johnny-speeds-2026-11-04",
+"ts": 1793815200,
+"t1": "INOX Division",
+"t2": "Johnny Speeds",
+"tour": "Fiesta Series 3",
+"tslug": "fiesta-series-3",
+"p1": 0.611,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

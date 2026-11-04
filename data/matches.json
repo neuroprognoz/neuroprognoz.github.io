@@ -4002,5 +4002,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"private-vs-dark-moon-2026-11-04": {
+"slug": "private-vs-dark-moon-2026-11-04",
+"ts": 1793793600,
+"t1": "PRIVATE",
+"t2": "Dark Moon",
+"tour": "Fiesta Series 3",
+"tslug": "fiesta-series-3",
+"p1": 0.902,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

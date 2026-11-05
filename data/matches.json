@@ -4613,10 +4613,10 @@
 "tour": "ESL Challenger League Season 52: Europe - Cup 10",
 "tslug": "esl-challenger-league-season-52-europe-cup-10",
 "p1": 0.501,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 }
 }

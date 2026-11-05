@@ -4193,10 +4193,10 @@
 "tour": "Gamers Club Liga Série A: October 2026",
 "tslug": "gamers-club-liga-s-rie-a-october-2026",
 "p1": 0.554,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "borracheiros-vs-alka-2026-11-05": {

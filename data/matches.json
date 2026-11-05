@@ -4576,5 +4576,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"esuba-vs-zotix-2026-11-05": {
+"slug": "esuba-vs-zotix-2026-11-05",
+"ts": 1793907000,
+"t1": "eSuba",
+"t2": "ZOTIX",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.614,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

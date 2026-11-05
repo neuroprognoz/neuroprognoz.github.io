@@ -4296,5 +4296,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"sinners-legacy-vs-thousand-2026-11-06": {
+"slug": "sinners-legacy-vs-thousand-2026-11-06",
+"ts": 1793984400,
+"t1": "SINNERS Legacy",
+"t2": "Thousand",
+"tour": "MČR 2026",
+"tslug": "m-r-2026",
+"p1": 0.443,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

@@ -4268,5 +4268,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"esuba-vs-brute-sq-2026-11-05": {
+"slug": "esuba-vs-brute-sq-2026-11-05",
+"ts": 1793907000,
+"t1": "eSuba",
+"t2": "BRUTE SQ",
+"tour": "MČR 2026",
+"tslug": "m-r-2026",
+"p1": 0.449,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

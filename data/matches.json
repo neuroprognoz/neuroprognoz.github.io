@@ -4352,5 +4352,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"dynamo-eclot-phoenix-vs-b-line-2026-11-06": {
+"slug": "dynamo-eclot-phoenix-vs-b-line-2026-11-06",
+"ts": 1793993400,
+"t1": "Dynamo Eclot Phoenix",
+"t2": "B.LINE",
+"tour": "MČR 2026",
+"tslug": "m-r-2026",
+"p1": 0.38,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

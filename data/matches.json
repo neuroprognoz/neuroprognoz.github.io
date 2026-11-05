@@ -4277,10 +4277,10 @@
 "tour": "MČR 2026",
 "tslug": "m-r-2026",
 "p1": 0.458,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": false,
 "noindex": true
 },
 "quazar-vs-fokus-2026-11-05": {

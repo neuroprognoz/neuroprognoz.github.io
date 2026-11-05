@@ -4445,10 +4445,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.694,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "eternal-premium-vs-banger-gang-2026-11-05": {
@@ -4488,7 +4488,7 @@
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.593,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false

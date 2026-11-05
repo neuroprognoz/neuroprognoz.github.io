@@ -4282,5 +4282,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"quazar-vs-fokus-2026-11-05": {
+"slug": "quazar-vs-fokus-2026-11-05",
+"ts": 1793869200,
+"t1": "QUAZAR",
+"t2": "FOKUS",
+"tour": "Fiesta Series 3",
+"tslug": "fiesta-series-3",
+"p1": 0.272,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

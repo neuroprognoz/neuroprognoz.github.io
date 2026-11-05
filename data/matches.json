@@ -4083,7 +4083,7 @@
 "p1": 0.234,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -4332,7 +4332,7 @@
 "t2": "Phantom Academy",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.502,
+"p1": 0.487,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -4431,10 +4431,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.793,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "dimonix-vs-menszczysni-2026-11-05": {

@@ -4389,10 +4389,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.291,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "growth-lab-esports-vs-vitality-academy-2026-11-05": {
@@ -4570,7 +4570,7 @@
 "t2": "GamersLab",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.55,
+"p1": 0.546,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

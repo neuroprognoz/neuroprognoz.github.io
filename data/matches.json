@@ -4081,10 +4081,10 @@
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.234,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 2,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "natus-vincere-vs-falcons-2026-11-04": {
@@ -4515,10 +4515,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.637,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "bojong-vs-vitality-academy-2026-11-05": {
@@ -4571,10 +4571,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.546,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "esuba-vs-zotix-2026-11-05": {

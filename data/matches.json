@@ -4324,5 +4324,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"lph-vs-phantom-academy-2026-11-06": {
+"slug": "lph-vs-phantom-academy-2026-11-06",
+"ts": 1793988000,
+"t1": "LPH",
+"t2": "Phantom Academy",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.501,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

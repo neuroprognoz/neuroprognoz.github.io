@@ -4338,5 +4338,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"xcity-vs-al-ahli-2026-11-06": {
+"slug": "xcity-vs-al-ahli-2026-11-06",
+"ts": 1793991600,
+"t1": "Xcity",
+"t2": "Al Ahli",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.301,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

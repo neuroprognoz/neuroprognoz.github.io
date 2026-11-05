@@ -3997,10 +3997,10 @@
 "tour": "CCT South America 2026 Series 8",
 "tslug": "cct-south-america-2026-series-8",
 "p1": 0.626,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "private-vs-dark-moon-2026-11-04": {

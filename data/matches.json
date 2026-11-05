@@ -4310,5 +4310,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"falcons-force-vs-xcity-2026-11-06": {
+"slug": "falcons-force-vs-xcity-2026-11-06",
+"ts": 1793986200,
+"t1": "Falcons Force",
+"t2": "Xcity",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.667,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -4361,10 +4361,10 @@
 "tour": "MČR 2026",
 "tslug": "m-r-2026",
 "p1": 0.366,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": true
 },
 "rounds-vs-jumbo-2026-11-05": {

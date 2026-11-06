@@ -4711,10 +4711,10 @@
 "tour": "CCT Europe 2026 Series 14 Play-In",
 "tslug": "cct-europe-2026-series-14-play-in",
 "p1": 0.674,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "forze-reload-vs-navi-junior-2026-11-06": {

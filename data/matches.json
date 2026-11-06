@@ -4716,5 +4716,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"forze-reload-vs-navi-junior-2026-11-06": {
+"slug": "forze-reload-vs-navi-junior-2026-11-06",
+"ts": 1793955600,
+"t1": "FORZE Reload",
+"t2": "NAVI Junior",
+"tour": "European Pro League Series 10",
+"tslug": "european-pro-league-series-10",
+"p1": 0.644,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"notime-vs-eternal-premium-2026-11-06": {
+"slug": "notime-vs-eternal-premium-2026-11-06",
+"ts": 1793980800,
+"t1": "NoTime",
+"t2": "eternal premium",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.342,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

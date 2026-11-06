@@ -4618,5 +4618,19 @@
 "s2": 2,
 "ok": false,
 "noindex": false
+},
+"gr-mio-vs-borracheiros-2026-11-07": {
+"slug": "gr-mio-vs-borracheiros-2026-11-07",
+"ts": 1793998800,
+"t1": "Grêmio",
+"t2": "BORRACHEIROS",
+"tour": "Gamers Club Liga Série A: October 2026",
+"tslug": "gamers-club-liga-s-rie-a-october-2026",
+"p1": 0.404,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

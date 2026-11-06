@@ -4627,10 +4627,10 @@
 "tour": "Gamers Club Liga Série A: October 2026",
 "tslug": "gamers-club-liga-s-rie-a-october-2026",
 "p1": 0.405,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "basement-boys-vs-johnny-speeds-2026-11-06": {

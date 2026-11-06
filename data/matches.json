@@ -4772,5 +4772,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"nexus-vs-forze-reload-2026-11-07": {
+"slug": "nexus-vs-forze-reload-2026-11-07",
+"ts": 1794074400,
+"t1": "Nexus",
+"t2": "FORZE Reload",
+"tour": "CCT Europe 2026 Series 13",
+"tslug": "cct-europe-2026-series-13",
+"p1": 0.499,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"four-magic-vs-masonic-2026-11-07": {
+"slug": "four-magic-vs-masonic-2026-11-07",
+"ts": 1794042000,
+"t1": "Four Magic",
+"t2": "MASONIC",
+"tour": "CCT Europe 2026 Series 14 Play-In",
+"tslug": "cct-europe-2026-series-14-play-in",
+"p1": 0.453,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"saw-youngsters-vs-s-kerorg-2026-11-07": {
+"slug": "saw-youngsters-vs-s-kerorg-2026-11-07",
+"ts": 1794063600,
+"t1": "SAW Youngsters",
+"t2": "Sökerorg",
+"tour": "CCT Europe 2026 Series 14 Play-In",
+"tslug": "cct-europe-2026-series-14-play-in",
+"p1": 0.631,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -4739,10 +4739,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.342,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "the-mongolz-vs-natus-vincere-2026-11-07": {

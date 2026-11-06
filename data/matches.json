@@ -4362,7 +4362,7 @@
 "tslug": "m-r-2026",
 "p1": 0.366,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": true
@@ -4766,7 +4766,7 @@
 "t2": "BetBoom",
 "tour": "Intel Extreme Masters Beijing 2026",
 "tslug": "intel-extreme-masters-beijing-2026",
-"p1": 0.723,
+"p1": 0.728,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

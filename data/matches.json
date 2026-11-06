@@ -4305,7 +4305,7 @@
 "tour": "MČR 2026",
 "tslug": "m-r-2026",
 "p1": 0.449,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -4641,10 +4641,10 @@
 "tour": "NODWIN Clutch Series 14 Play-In",
 "tslug": "nodwin-clutch-series-14-play-in",
 "p1": 0.499,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "baks-vs-fire-flux-2026-11-06": {

@@ -4683,10 +4683,10 @@
 "tour": "CCT South America 2026 Series 8",
 "tslug": "cct-south-america-2026-series-8",
 "p1": 0.599,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "gothic-vs-inner-circle-academy-2026-11-06": {

@@ -5052,5 +5052,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"fokus-vs-balkan-outlaws-2026-11-07": {
+"slug": "fokus-vs-balkan-outlaws-2026-11-07",
+"ts": 1794074400,
+"t1": "FOKUS",
+"t2": "Balkan Outlaws",
+"tour": "ESL Challenger League Season 52: Europe - Cup 11",
+"tslug": "esl-challenger-league-season-52-europe-cup-11",
+"p1": 0.829,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"optibet-vs-g2-ares-2026-11-07": {
+"slug": "optibet-vs-g2-ares-2026-11-07",
+"ts": 1794074400,
+"t1": "Optibet",
+"t2": "G2 Ares",
+"tour": "ESL Challenger League Season 52: Europe - Cup 11",
+"tslug": "esl-challenger-league-season-52-europe-cup-11",
+"p1": 0.299,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"private-vs-og-2026-11-07": {
+"slug": "private-vs-og-2026-11-07",
+"ts": 1794074400,
+"t1": "PRIVATE",
+"t2": "OG",
+"tour": "ESL Challenger League Season 52: Europe - Cup 11",
+"tslug": "esl-challenger-league-season-52-europe-cup-11",
+"p1": 0.634,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

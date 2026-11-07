@@ -4814,5 +4814,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"brute-sq-vs-dynamo-eclot-phoenix-2026-11-07": {
+"slug": "brute-sq-vs-dynamo-eclot-phoenix-2026-11-07",
+"ts": 1794079800,
+"t1": "BRUTE SQ",
+"t2": "Dynamo Eclot Phoenix",
+"tour": "MČR 2026",
+"tslug": "m-r-2026",
+"p1": 0.745,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

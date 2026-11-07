@@ -4811,7 +4811,7 @@
 "p1": 0.63,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -4963,10 +4963,10 @@
 "tour": "ESL Challenger League Season 52: Europe - Cup 11",
 "tslug": "esl-challenger-league-season-52-europe-cup-11",
 "p1": 0.705,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "natus-vincere-vs-betboom-2026-11-08": {

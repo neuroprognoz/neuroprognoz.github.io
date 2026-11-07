@@ -4809,10 +4809,10 @@
 "tour": "CCT Europe 2026 Series 14 Play-In",
 "tslug": "cct-europe-2026-series-14-play-in",
 "p1": 0.63,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "brute-sq-vs-dynamo-eclot-phoenix-2026-11-07": {

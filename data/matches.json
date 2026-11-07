@@ -4842,5 +4842,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"red-canids-academy-vs-gr-mio-2026-11-08": {
+"slug": "red-canids-academy-vs-gr-mio-2026-11-08",
+"ts": 1794164400,
+"t1": "RED Canids Academy",
+"t2": "Grêmio",
+"tour": "Gamers Club Liga Série A: October 2026",
+"tslug": "gamers-club-liga-s-rie-a-october-2026",
+"p1": 0.639,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

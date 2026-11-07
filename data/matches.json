@@ -4795,10 +4795,10 @@
 "tour": "CCT Europe 2026 Series 14 Play-In",
 "tslug": "cct-europe-2026-series-14-play-in",
 "p1": 0.46,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "saw-youngsters-vs-s-kerorg-2026-11-07": {

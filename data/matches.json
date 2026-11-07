@@ -4921,10 +4921,10 @@
 "tour": "ESL Challenger League Season 52: Europe - Cup 11",
 "tslug": "esl-challenger-league-season-52-europe-cup-11",
 "p1": 0.463,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "acend-vs-ryvex-2026-11-07": {
@@ -4935,10 +4935,10 @@
 "tour": "ESL Challenger League Season 52: Europe - Cup 11",
 "tslug": "esl-challenger-league-season-52-europe-cup-11",
 "p1": 0.85,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "private-vs-optibet-2026-11-07": {

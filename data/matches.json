@@ -7029,12 +7029,12 @@
 },
 "private-vs-betclic-2026-11-15": {
 "slug": "private-vs-betclic-2026-11-15",
-"ts": 1794733200,
+"ts": 1794765600,
 "t1": "PRIVATE",
 "t2": "Betclic",
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
-"p1": 0.491,
+"p1": 0.49,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7315,10 +7315,10 @@
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
 "p1": 0.568,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "phantom-vs-hype-tech-2026-11-15": {
@@ -7519,7 +7519,7 @@
 },
 "metizport-vs-aces-2026-11-15": {
 "slug": "metizport-vs-aces-2026-11-15",
-"ts": 1794765600,
+"ts": 1794754800,
 "t1": "Metizport",
 "t2": "Aces",
 "tour": "CCT Europe 2026 Series 13",

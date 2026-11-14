@@ -7236,5 +7236,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"infinite-vs-aces-2026-11-14": {
+"slug": "infinite-vs-aces-2026-11-14",
+"ts": 1794646800,
+"t1": "INFINITE",
+"t2": "Aces",
+"tour": "CCT Europe 2026 Series 13",
+"tslug": "cct-europe-2026-series-13",
+"p1": 0.402,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

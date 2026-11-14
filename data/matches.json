@@ -7021,10 +7021,10 @@
 "tour": "BLAST Rivals Fall 2026",
 "tslug": "blast-rivals-fall-2026",
 "p1": 0.559,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "private-vs-betclic-2026-11-15": {
@@ -7174,7 +7174,7 @@
 "t2": "G2 Ares",
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
-"p1": 0.646,
+"p1": 0.644,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7216,7 +7216,7 @@
 "t2": "Aurora Young Blud",
 "tour": "Fiesta Series 4: Closed Qualifier",
 "tslug": "fiesta-series-4-closed-qualifier",
-"p1": 0.382,
+"p1": 0.383,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7376,5 +7376,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ww-vs-hype-tech-2026-11-14": {
+"slug": "ww-vs-hype-tech-2026-11-14",
+"ts": 1794679200,
+"t1": "WW",
+"t2": "Hype Tech",
+"tour": "CCT Europe 2026 Series 13",
+"tslug": "cct-europe-2026-series-13",
+"p1": 0.304,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

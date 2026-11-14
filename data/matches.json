@@ -7460,5 +7460,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ex-yawara-vs-quintess-ncia-2026-11-14": {
+"slug": "ex-yawara-vs-quintess-ncia-2026-11-14",
+"ts": 1794682800,
+"t1": "ex-Yawara",
+"t2": "QUINTESSÊNCIA",
+"tour": "CCT South America 2026 Series 8",
+"tslug": "cct-south-america-2026-series-8",
+"p1": 0.551,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"tao-toma-vs-barca-2026-11-14": {
+"slug": "tao-toma-vs-barca-2026-11-14",
+"ts": 1794672000,
+"t1": "tao toma",
+"t2": "BARCA",
+"tour": "CCT South America 2026 Series 8",
+"tslug": "cct-south-america-2026-series-8",
+"p1": 0.423,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

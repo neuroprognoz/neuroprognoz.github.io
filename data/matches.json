@@ -7264,5 +7264,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ex-rustec-vs-honv-d-2026-11-14": {
+"slug": "ex-rustec-vs-honv-d-2026-11-14",
+"ts": 1794668400,
+"t1": "ex-RUSTEC",
+"t2": "Honvéd",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.652,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"baks-vs-illyrians-2026-11-14": {
+"slug": "baks-vs-illyrians-2026-11-14",
+"ts": 1794679200,
+"t1": "BAKS",
+"t2": "Illyrians",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.635,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"aces-vs-illyrians-2026-11-14": {
+"slug": "aces-vs-illyrians-2026-11-14",
+"ts": 1794657600,
+"t1": "Aces",
+"t2": "Illyrians",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.616,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

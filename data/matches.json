@@ -7141,7 +7141,7 @@
 },
 "9ine-vs-pcific-2026-11-14": {
 "slug": "9ine-vs-pcific-2026-11-14",
-"ts": 1794655800,
+"ts": 1794657600,
 "t1": "9INE",
 "t2": "PCIFIC",
 "tour": "European Pro League Series 10",
@@ -7245,10 +7245,10 @@
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
 "p1": 0.402,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "phantom-vs-ex-zero-tenacity-2026-11-15": {
@@ -7300,7 +7300,7 @@
 "t2": "Illyrians",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.616,
+"p1": 0.662,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

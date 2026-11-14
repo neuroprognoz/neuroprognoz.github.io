@@ -6964,7 +6964,7 @@
 "t2": "FORZE Reload",
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
-"p1": 0.668,
+"p1": 0.669,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7049,10 +7049,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.738,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "luntiki-vs-spirit-academy-2026-11-14": {
@@ -7160,7 +7160,7 @@
 "t2": "FORZE Reload",
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
-"p1": 0.581,
+"p1": 0.589,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7203,10 +7203,10 @@
 "tour": "Fiesta Series 4: Closed Qualifier",
 "tslug": "fiesta-series-4-closed-qualifier",
 "p1": 0.382,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "revise-vs-aurora-young-blud-2026-11-14": {
@@ -7320,5 +7320,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"phantom-vs-hype-tech-2026-11-15": {
+"slug": "phantom-vs-hype-tech-2026-11-15",
+"ts": 1794765600,
+"t1": "Phantom",
+"t2": "Hype Tech",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.465,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

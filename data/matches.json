@@ -7287,10 +7287,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.621,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "aces-vs-illyrians-2026-11-14": {
@@ -7370,7 +7370,7 @@
 "t2": "Illyrians",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.664,
+"p1": 0.632,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

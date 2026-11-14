@@ -7398,7 +7398,7 @@
 "t2": "FURIA",
 "tour": "BLAST Rivals Fall 2026",
 "tslug": "blast-rivals-fall-2026",
-"p1": 0.545,
+"p1": 0.563,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7488,5 +7488,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"forze-reload-vs-nexus-2026-11-15": {
+"slug": "forze-reload-vs-nexus-2026-11-15",
+"ts": 1794754800,
+"t1": "FORZE Reload",
+"t2": "Nexus",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.511,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

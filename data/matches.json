@@ -7250,5 +7250,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"phantom-vs-ex-zero-tenacity-2026-11-15": {
+"slug": "phantom-vs-ex-zero-tenacity-2026-11-15",
+"ts": 1794765600,
+"t1": "Phantom",
+"t2": "ex-Zero Tenacity",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.465,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

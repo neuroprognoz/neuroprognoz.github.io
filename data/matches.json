@@ -6993,10 +6993,10 @@
 "tour": "BLAST Rivals Fall 2026",
 "tslug": "blast-rivals-fall-2026",
 "p1": 0.347,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "ww-vs-ex-zero-tenacity-2026-11-14": {

@@ -7329,10 +7329,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.465,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": false,
 "noindex": true
 },
 "red-canids-academy-vs-los-ni-os-2026-11-16": {
@@ -7384,7 +7384,7 @@
 "t2": "Hype Tech",
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
-"p1": 0.304,
+"p1": 0.723,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

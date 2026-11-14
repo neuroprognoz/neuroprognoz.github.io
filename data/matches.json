@@ -7076,7 +7076,7 @@
 "t2": "GenOne",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.698,
+"p1": 0.644,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7133,10 +7133,10 @@
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
 "p1": 0.557,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "9ine-vs-pcific-2026-11-14": {

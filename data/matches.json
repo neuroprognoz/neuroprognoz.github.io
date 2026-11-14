@@ -7034,7 +7034,7 @@
 "t2": "Betclic",
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
-"p1": 0.491,
+"p1": 0.492,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7216,7 +7216,7 @@
 "t2": "Aurora Young Blud",
 "tour": "Fiesta Series 4: Closed Qualifier",
 "tslug": "fiesta-series-4-closed-qualifier",
-"p1": 0.383,
+"p1": 0.382,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7362,5 +7362,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"aces-vs-illyrians-2026-11-15": {
+"slug": "aces-vs-illyrians-2026-11-15",
+"ts": 1794765600,
+"t1": "Aces",
+"t2": "Illyrians",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.663,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -7768,5 +7768,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"33-vs-eternal-fire-2026-11-15": {
+"slug": "33-vs-eternal-fire-2026-11-15",
+"ts": 1794765600,
+"t1": "33",
+"t2": "Eternal Fire",
+"tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
+"tslug": "pgl-cluj-napoca-2027-closed-qualifier",
+"p1": 0.327,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"parivision-vs-100-thieves-2026-11-15": {
+"slug": "parivision-vs-100-thieves-2026-11-15",
+"ts": 1794765600,
+"t1": "PARIVISION",
+"t2": "100 Thieves",
+"tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
+"tslug": "pgl-cluj-napoca-2027-closed-qualifier",
+"p1": 0.52,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -7581,10 +7581,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.751,
-"st": "current",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "ex-sashi-academy-vs-ducks-2026-11-15": {
@@ -7609,10 +7609,10 @@
 "tour": "Fiesta Series 4: Closed Qualifier",
 "tslug": "fiesta-series-4-closed-qualifier",
 "p1": 0.503,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "omega-vs-iberian-soul-2026-11-15": {

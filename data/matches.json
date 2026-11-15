@@ -7642,5 +7642,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"virtus-pro-vs-hype-tech-2026-11-15": {
+"slug": "virtus-pro-vs-hype-tech-2026-11-15",
+"ts": 1794733200,
+"t1": "Virtus.pro",
+"t2": "Hype Tech",
+"tour": "CCT Europe 2026 Series 13",
+"tslug": "cct-europe-2026-series-13",
+"p1": 0.628,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"butterfly-vs-hype-tech-2026-11-15": {
+"slug": "butterfly-vs-hype-tech-2026-11-15",
+"ts": 1794765600,
+"t1": "Butterfly",
+"t2": "Hype Tech",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.553,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

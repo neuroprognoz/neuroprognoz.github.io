@@ -7698,5 +7698,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"oldboys-fr-vs-ttg-esports-2026-11-16": {
+"slug": "oldboys-fr-vs-ttg-esports-2026-11-16",
+"ts": 1794855600,
+"t1": "OldBoys FR",
+"t2": "TTG Esports",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.336,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

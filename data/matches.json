@@ -7684,5 +7684,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"kuusamo-vs-nordic-valor-2026-11-16": {
+"slug": "kuusamo-vs-nordic-valor-2026-11-16",
+"ts": 1794852000,
+"t1": "KUUSAMO",
+"t2": "Nordic Valor",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.746,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

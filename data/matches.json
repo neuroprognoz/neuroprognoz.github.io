@@ -7407,7 +7407,7 @@
 },
 "eternal-fire-vs-100-thieves-2026-11-15": {
 "slug": "eternal-fire-vs-100-thieves-2026-11-15",
-"ts": 1794744000,
+"ts": 1794745800,
 "t1": "Eternal Fire",
 "t2": "100 Thieves",
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
@@ -7421,7 +7421,7 @@
 },
 "parivision-vs-33-2026-11-15": {
 "slug": "parivision-vs-33-2026-11-15",
-"ts": 1794744000,
+"ts": 1794745800,
 "t1": "PARIVISION",
 "t2": "33",
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
@@ -7511,7 +7511,7 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.669,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,

@@ -7497,10 +7497,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.547,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "leo-vs-the-last-resort-2026-11-15": {
@@ -7749,10 +7749,10 @@
 "tour": "Austin LAN 2026",
 "tslug": "austin-lan-2026",
 "p1": 0.824,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "voca-vs-iowa-stormboar-2026-11-15": {
@@ -7777,7 +7777,7 @@
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
 "tslug": "pgl-cluj-napoca-2027-closed-qualifier",
 "p1": 0.327,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,

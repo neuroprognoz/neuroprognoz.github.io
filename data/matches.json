@@ -7356,7 +7356,7 @@
 "t2": "9z Academy",
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
-"p1": 0.846,
+"p1": 0.812,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7553,10 +7553,10 @@
 "tour": "CCT South America 2026 Series 8",
 "tslug": "cct-south-america-2026-series-8",
 "p1": 0.65,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "ex-yawara-vs-barca-2026-11-15": {
@@ -7597,7 +7597,7 @@
 "p1": 0.494,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },

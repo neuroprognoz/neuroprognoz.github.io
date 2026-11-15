@@ -7161,10 +7161,10 @@
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
 "p1": 0.585,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "ww-vs-g2-ares-2026-11-15": {
@@ -7496,7 +7496,7 @@
 "t2": "Nexus",
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
-"p1": 0.533,
+"p1": 0.547,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

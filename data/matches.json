@@ -7824,5 +7824,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"sinners-vs-nexus-2026-11-17": {
+"slug": "sinners-vs-nexus-2026-11-17",
+"ts": 1794909600,
+"t1": "SINNERS",
+"t2": "Nexus",
+"tour": "RUSH:Brno 2026",
+"tslug": "rush-brno-2026",
+"p1": 0.699,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

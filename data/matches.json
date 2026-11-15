@@ -7796,5 +7796,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"voca-vs-lag-2026-11-16": {
+"slug": "voca-vs-lag-2026-11-16",
+"ts": 1794784500,
+"t1": "Voca",
+"t2": "LAG",
+"tour": "Austin LAN 2026",
+"tslug": "austin-lan-2026",
+"p1": 0.671,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -7595,10 +7595,10 @@
 "tour": "Fiesta Series 4: Closed Qualifier",
 "tslug": "fiesta-series-4-closed-qualifier",
 "p1": 0.494,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "esuba-vs-revise-2026-11-15": {
@@ -7659,12 +7659,12 @@
 },
 "butterfly-vs-hype-tech-2026-11-15": {
 "slug": "butterfly-vs-hype-tech-2026-11-15",
-"ts": 1794765600,
+"ts": 1794768000,
 "t1": "Butterfly",
 "t2": "Hype Tech",
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
-"p1": 0.543,
+"p1": 0.542,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7735,10 +7735,10 @@
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
 "tslug": "pgl-cluj-napoca-2027-closed-qualifier",
 "p1": 0.554,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "lag-vs-detonate-2026-11-15": {

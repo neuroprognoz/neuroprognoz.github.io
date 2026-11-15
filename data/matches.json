@@ -7370,7 +7370,7 @@
 "t2": "Illyrians",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.632,
+"p1": 0.631,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -7441,10 +7441,10 @@
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
 "tslug": "pgl-cluj-napoca-2027-closed-qualifier",
 "p1": 0.545,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "heroic-vs-magic-2026-11-15": {

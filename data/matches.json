@@ -7035,10 +7035,10 @@
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
 "p1": 0.484,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "forze-reload-vs-nt-2026-11-14": {

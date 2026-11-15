@@ -7399,10 +7399,10 @@
 "tour": "BLAST Rivals Fall 2026",
 "tslug": "blast-rivals-fall-2026",
 "p1": 0.555,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 3,
+"ok": false,
 "noindex": false
 },
 "eternal-fire-vs-100-thieves-2026-11-15": {
@@ -7651,10 +7651,10 @@
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
 "p1": 0.628,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "butterfly-vs-hype-tech-2026-11-15": {
@@ -7664,7 +7664,7 @@
 "t2": "Hype Tech",
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
-"p1": 0.553,
+"p1": 0.559,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

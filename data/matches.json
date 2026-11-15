@@ -7763,10 +7763,10 @@
 "tour": "Austin LAN 2026",
 "tslug": "austin-lan-2026",
 "p1": 0.846,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "33-vs-eternal-fire-2026-11-15": {
@@ -7777,7 +7777,7 @@
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
 "tslug": "pgl-cluj-napoca-2027-closed-qualifier",
 "p1": 0.327,
-"st": "current",
+"st": "upcoming",
 "s1": 0,
 "s2": 0,
 "ok": null,

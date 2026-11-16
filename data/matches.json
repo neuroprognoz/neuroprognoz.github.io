@@ -8118,5 +8118,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"big-vs-sangal-2026-11-17": {
+"slug": "big-vs-sangal-2026-11-17",
+"ts": 1794922200,
+"t1": "BIG",
+"t2": "Sangal",
+"tour": "Stake Ranked Episode 6",
+"tslug": "stake-ranked-episode-6",
+"p1": 0.61,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

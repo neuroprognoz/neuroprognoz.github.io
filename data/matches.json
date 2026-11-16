@@ -8099,10 +8099,10 @@
 "tour": "Fiesta Series 4: Closed Qualifier",
 "tslug": "fiesta-series-4-closed-qualifier",
 "p1": 0.624,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "evermore-vs-four-magic-2026-11-16": {
@@ -8154,7 +8154,7 @@
 "t2": "Aces",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.458,
+"p1": 0.464,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

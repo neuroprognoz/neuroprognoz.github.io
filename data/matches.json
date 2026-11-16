@@ -7880,5 +7880,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"100-thieves-vs-fnatic-2026-11-17": {
+"slug": "100-thieves-vs-fnatic-2026-11-17",
+"ts": 1794916800,
+"t1": "100 Thieves",
+"t2": "fnatic",
+"tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
+"tslug": "pgl-cluj-napoca-2027-closed-qualifier",
+"p1": 0.556,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

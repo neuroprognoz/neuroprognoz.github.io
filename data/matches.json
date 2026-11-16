@@ -7973,10 +7973,10 @@
 "tour": "CCT Europe 2026 Series 13",
 "tslug": "cct-europe-2026-series-13",
 "p1": 0.62,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "parivision-vs-heroic-2026-11-16": {
@@ -8154,7 +8154,7 @@
 "t2": "Aces",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.472,
+"p1": 0.458,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

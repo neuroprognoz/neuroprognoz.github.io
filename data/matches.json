@@ -7805,10 +7805,10 @@
 "tour": "Austin LAN 2026",
 "tslug": "austin-lan-2026",
 "p1": 0.671,
-"st": "current",
-"s1": 2,
+"st": "finished",
+"s1": 3,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "wbt-vs-ex-ence-2026-11-17": {

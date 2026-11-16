@@ -8132,5 +8132,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"hype-tech-vs-the-last-resort-2026-11-17": {
+"slug": "hype-tech-vs-the-last-resort-2026-11-17",
+"ts": 1794927600,
+"t1": "Hype Tech",
+"t2": "The Last Resort",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.575,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"forze-reload-vs-aces-2026-11-17": {
+"slug": "forze-reload-vs-aces-2026-11-17",
+"ts": 1794927600,
+"t1": "FORZE Reload",
+"t2": "Aces",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.486,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

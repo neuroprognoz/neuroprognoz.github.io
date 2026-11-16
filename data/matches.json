@@ -8202,5 +8202,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"sinqu-vs-boyband-2026-11-17": {
+"slug": "sinqu-vs-boyband-2026-11-17",
+"ts": 1794938400,
+"t1": "SINQU",
+"t2": "boyband",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.297,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"nexus-vs-walczaki-2026-11-17": {
+"slug": "nexus-vs-walczaki-2026-11-17",
+"ts": 1794938400,
+"t1": "Nexus",
+"t2": "Walczaki",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.625,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"disfar-ados-vs-alka-2026-11-16": {
+"slug": "disfar-ados-vs-alka-2026-11-16",
+"ts": 1794859200,
+"t1": "DISFARÇADOS",
+"t2": "ALKA",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.494,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

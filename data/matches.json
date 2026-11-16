@@ -7917,10 +7917,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.742,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "leo-vs-honv-d-2026-11-16": {
@@ -8001,10 +8001,10 @@
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
 "tslug": "pgl-cluj-napoca-2027-closed-qualifier",
 "p1": 0.477,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "ex-rustec-vs-butterfly-2026-11-16": {

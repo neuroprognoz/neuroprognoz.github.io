@@ -8370,5 +8370,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"gr-mio-vs-mira-2026-11-17": {
+"slug": "gr-mio-vs-mira-2026-11-17",
+"ts": 1794942000,
+"t1": "Grêmio",
+"t2": "Mira",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.426,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

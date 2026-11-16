@@ -8244,5 +8244,47 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"gamerlegion-vs-luminosity-2026-11-17": {
+"slug": "gamerlegion-vs-luminosity-2026-11-17",
+"ts": 1794940200,
+"t1": "GamerLegion",
+"t2": "Luminosity",
+"tour": "Stake Ranked Episode 6",
+"tslug": "stake-ranked-episode-6",
+"p1": 0.69,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"eternal-premium-vs-falcons-force-2026-11-17": {
+"slug": "eternal-premium-vs-falcons-force-2026-11-17",
+"ts": 1794940200,
+"t1": "eternal premium",
+"t2": "Falcons Force",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.364,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"young-tigeres-vs-oldboys-pl-2026-11-17": {
+"slug": "young-tigeres-vs-oldboys-pl-2026-11-17",
+"ts": 1794940200,
+"t1": "Young TigeRES",
+"t2": "OLDBOYS PL",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.379,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -8160,5 +8160,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ninjas-in-pyjamas-vs-unity-2026-11-17": {
+"slug": "ninjas-in-pyjamas-vs-unity-2026-11-17",
+"ts": 1794931200,
+"t1": "Ninjas in Pyjamas",
+"t2": "UNiTY",
+"tour": "Stake Ranked Episode 6",
+"tslug": "stake-ranked-episode-6",
+"p1": 0.678,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"bbl-vs-phantom-2026-11-17": {
+"slug": "bbl-vs-phantom-2026-11-17",
+"ts": 1794931200,
+"t1": "BBL",
+"t2": "Phantom",
+"tour": "RUSH:Brno 2026",
+"tslug": "rush-brno-2026",
+"p1": 0.495,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -8286,5 +8286,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"envy-vs-metizport-2026-11-17": {
+"slug": "envy-vs-metizport-2026-11-17",
+"ts": 1794942000,
+"t1": "Envy",
+"t2": "Metizport",
+"tour": "RUSH:Brno 2026",
+"tslug": "rush-brno-2026",
+"p1": 0.24,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

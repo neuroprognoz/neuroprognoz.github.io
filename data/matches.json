@@ -8790,5 +8790,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"xi-vs-jumbo-2026-11-17": {
+"slug": "xi-vs-jumbo-2026-11-17",
+"ts": 1794943800,
+"t1": "XI",
+"t2": "JUMBO",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.654,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

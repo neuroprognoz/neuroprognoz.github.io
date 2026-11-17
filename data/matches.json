@@ -8155,10 +8155,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.469,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "ninjas-in-pyjamas-vs-unity-2026-11-17": {
@@ -8197,10 +8197,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.322,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "sinqu-vs-boyband-2026-11-17": {
@@ -8518,7 +8518,7 @@
 "t2": "G2 Ares",
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
-"p1": 0.731,
+"p1": 0.729,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -8575,10 +8575,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.527,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "oldboys-pl-vs-falcons-force-2026-11-17": {
@@ -8700,7 +8700,7 @@
 "t2": "aimers",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.337,
+"p1": 0.288,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -8812,7 +8812,7 @@
 "t2": "Vitality Academy",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.607,
+"p1": 0.624,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -9009,10 +9009,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.521,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 1,
-"ok": null,
+"ok": false,
 "noindex": false
 }
 }

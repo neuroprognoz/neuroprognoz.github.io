@@ -9154,5 +9154,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"wbt-vs-mouz-nxt-2026-11-19": {
+"slug": "wbt-vs-mouz-nxt-2026-11-19",
+"ts": 1795087800,
+"t1": "WBT",
+"t2": "MOUZ NXT",
+"tour": "European Pro League Series 10",
+"tslug": "european-pro-league-series-10",
+"p1": 0.66,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

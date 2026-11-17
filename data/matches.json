@@ -8211,10 +8211,10 @@
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.292,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "nexus-vs-walczaki-2026-11-17": {
@@ -8226,7 +8226,7 @@
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.591,
 "st": "current",
-"s1": 1,
+"s1": 2,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -8267,10 +8267,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.393,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "young-tigeres-vs-oldboys-pl-2026-11-17": {
@@ -8281,10 +8281,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.321,
-"st": "current",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "envy-vs-metizport-2026-11-17": {
@@ -8701,10 +8701,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.288,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "the-chosen-few-vs-inner-circle-prospect-2026-11-17": {
@@ -8868,7 +8868,7 @@
 "t2": "ROUNDS",
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
-"p1": 0.615,
+"p1": 0.608,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

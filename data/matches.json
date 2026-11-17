@@ -8407,10 +8407,10 @@
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
 "p1": 0.563,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "axorfy-vs-meia-noite-2026-11-17": {

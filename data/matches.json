@@ -7847,10 +7847,10 @@
 "tour": "Stake Ranked Episode 6",
 "tslug": "stake-ranked-episode-6",
 "p1": 0.566,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "private-vs-omega-2026-11-16": {
@@ -7877,7 +7877,7 @@
 "p1": 0.58,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -8073,7 +8073,7 @@
 "p1": 0.387,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": true
 },

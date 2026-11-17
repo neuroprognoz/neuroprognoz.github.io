@@ -8296,7 +8296,7 @@
 "tslug": "rush-brno-2026",
 "p1": 0.251,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -8660,7 +8660,7 @@
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.665,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -8980,7 +8980,7 @@
 "t2": "Iberian Soul",
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
-"p1": 0.324,
+"p1": 0.347,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

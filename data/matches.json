@@ -8659,10 +8659,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.665,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "glitchtech-vs-dimonix-2026-11-17": {
@@ -8854,7 +8854,7 @@
 "t2": "Fire Flux",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.369,
+"p1": 0.37,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

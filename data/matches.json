@@ -7945,10 +7945,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.568,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "alliance-vs-iberian-soul-2026-11-17": {
@@ -8897,10 +8897,10 @@
 "tour": "Fiesta Series 4",
 "tslug": "fiesta-series-4",
 "p1": 0.605,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": true
 },
 "pcific-vs-revise-2026-11-17": {

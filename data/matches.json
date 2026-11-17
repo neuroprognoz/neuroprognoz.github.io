@@ -8183,10 +8183,10 @@
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
 "p1": 0.496,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "aimers-vs-banger-gang-2026-11-17": {
@@ -8212,7 +8212,7 @@
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.292,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -8267,7 +8267,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.393,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -8281,7 +8281,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.321,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -8631,10 +8631,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.633,
-"st": "current",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "bangaranga-vs-ttg-esports-2026-11-17": {
@@ -8775,7 +8775,7 @@
 "s1": 0,
 "s2": 0,
 "ok": null,
-"noindex": true
+"noindex": false
 },
 "gamerslab-vs-partizan-2026-11-17": {
 "slug": "gamerslab-vs-partizan-2026-11-17",
@@ -8854,7 +8854,7 @@
 "t2": "Fire Flux",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.368,
+"p1": 0.369,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

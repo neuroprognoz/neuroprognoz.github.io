@@ -7875,10 +7875,10 @@
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
 "p1": 0.58,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "100-thieves-vs-fnatic-2026-11-17": {
@@ -7889,10 +7889,10 @@
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
 "tslug": "pgl-cluj-napoca-2027-closed-qualifier",
 "p1": 0.545,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "mouz-nxt-vs-azuolas-2026-11-16": {

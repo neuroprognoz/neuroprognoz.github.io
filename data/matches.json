@@ -8226,7 +8226,7 @@
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.591,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -8645,10 +8645,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.31,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "oldboys-fr-vs-regnum4games-2026-11-17": {
@@ -8770,7 +8770,7 @@
 "t2": "Y23",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.603,
+"p1": 0.587,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

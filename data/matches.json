@@ -7959,10 +7959,10 @@
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
 "p1": 0.462,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "virtus-pro-vs-aces-2026-11-16": {
@@ -8127,10 +8127,10 @@
 "tour": "Stake Ranked Episode 6",
 "tslug": "stake-ranked-episode-6",
 "p1": 0.61,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "hype-tech-vs-the-last-resort-2026-11-17": {
@@ -8925,6 +8925,20 @@
 "tour": "Fiesta Series 4",
 "tslug": "fiesta-series-4",
 "p1": 0.189,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"borracheiros-vs-hunters-rising-2026-11-17": {
+"slug": "borracheiros-vs-hunters-rising-2026-11-17",
+"ts": 1794945600,
+"t1": "BORRACHEIROS",
+"t2": "Hunters Rising",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.724,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

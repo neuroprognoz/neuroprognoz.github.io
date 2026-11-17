@@ -8818,5 +8818,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"curralzinho-vs-underworld-2026-11-18": {
+"slug": "curralzinho-vs-underworld-2026-11-18",
+"ts": 1795024800,
+"t1": "Curralzinho",
+"t2": "Underworld",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.267,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"tropa-do-micha-vs-quintess-ncia-2026-11-18": {
+"slug": "tropa-do-micha-vs-quintess-ncia-2026-11-18",
+"ts": 1795024800,
+"t1": "TROPA DO MICHA",
+"t2": "QUINTESSÊNCIA",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.488,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

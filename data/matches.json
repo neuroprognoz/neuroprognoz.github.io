@@ -8253,10 +8253,10 @@
 "tour": "Stake Ranked Episode 6",
 "tslug": "stake-ranked-episode-6",
 "p1": 0.704,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "eternal-premium-vs-falcons-force-2026-11-17": {
@@ -8297,7 +8297,7 @@
 "p1": 0.251,
 "st": "current",
 "s1": 1,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -8715,10 +8715,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.672,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "fortress-vs-menszczysni-2026-11-17": {
@@ -8771,10 +8771,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.582,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "gamerslab-vs-partizan-2026-11-17": {
@@ -8785,10 +8785,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.32,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "xi-vs-jumbo-2026-11-17": {
@@ -8812,7 +8812,7 @@
 "t2": "Vitality Academy",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.623,
+"p1": 0.614,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

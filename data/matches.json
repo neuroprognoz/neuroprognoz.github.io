@@ -8776,5 +8776,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"gamerslab-vs-partizan-2026-11-17": {
+"slug": "gamerslab-vs-partizan-2026-11-17",
+"ts": 1794943800,
+"t1": "GamersLab",
+"t2": "PARTIZAN",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.323,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

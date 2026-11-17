@@ -8225,10 +8225,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.591,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "disfar-ados-vs-alka-2026-11-16": {
@@ -8980,7 +8980,7 @@
 "t2": "Iberian Soul",
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
-"p1": 0.308,
+"p1": 0.324,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

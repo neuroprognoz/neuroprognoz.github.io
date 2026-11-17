@@ -8072,7 +8072,7 @@
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.387,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": true
@@ -8491,10 +8491,10 @@
 "tour": "PGL Cluj-Napoca 2027: Closed Qualifier",
 "tslug": "pgl-cluj-napoca-2027-closed-qualifier",
 "p1": 0.587,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "balkan-outlaws-vs-pcific-2026-11-18": {

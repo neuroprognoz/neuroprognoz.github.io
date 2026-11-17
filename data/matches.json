@@ -8762,5 +8762,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"phantom-academy-vs-y23-2026-11-17": {
+"slug": "phantom-academy-vs-y23-2026-11-17",
+"ts": 1794943800,
+"t1": "Phantom Academy",
+"t2": "Y23",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.593,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

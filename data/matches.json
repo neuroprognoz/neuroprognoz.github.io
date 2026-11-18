@@ -9360,7 +9360,7 @@
 "tslug": "rush-brno-2026",
 "p1": 0.741,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": false
@@ -9504,5 +9504,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"lag-vs-villainous-2026-11-20": {
+"slug": "lag-vs-villainous-2026-11-20",
+"ts": 1795129200,
+"t1": "LAG",
+"t2": "Villainous",
+"tour": "CROSSFIRE Season 7",
+"tslug": "crossfire-season-7",
+"p1": 0.862,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

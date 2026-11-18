@@ -9121,10 +9121,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.43,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "33-vs-spirit-academy-2026-11-18": {
@@ -9302,7 +9302,7 @@
 "t2": "MOUZ NXT",
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
-"p1": 0.66,
+"p1": 0.634,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

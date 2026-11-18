@@ -9364,5 +9364,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"los-ni-os-vs-borracheiros-2026-11-19": {
+"slug": "los-ni-os-vs-borracheiros-2026-11-19",
+"ts": 1795035600,
+"t1": "Los Niños",
+"t2": "BORRACHEIROS",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.486,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"axorfy-vs-underworld-2026-11-19": {
+"slug": "axorfy-vs-underworld-2026-11-19",
+"ts": 1795045500,
+"t1": "AXORFY",
+"t2": "Underworld",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.779,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

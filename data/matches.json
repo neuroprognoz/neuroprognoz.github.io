@@ -9406,5 +9406,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"banger-gang-vs-notime-2026-11-19": {
+"slug": "banger-gang-vs-notime-2026-11-19",
+"ts": 1795111200,
+"t1": "Banger Gang",
+"t2": "NoTime",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.538,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"drama-vs-megoshort-2026-11-19": {
+"slug": "drama-vs-megoshort-2026-11-19",
+"ts": 1795111200,
+"t1": "Drama",
+"t2": "megoshort",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.467,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

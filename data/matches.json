@@ -9361,7 +9361,7 @@
 "p1": 0.741,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -9476,5 +9476,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"luminosity-vs-sangal-2026-11-19": {
+"slug": "luminosity-vs-sangal-2026-11-19",
+"ts": 1795104000,
+"t1": "Luminosity",
+"t2": "Sangal",
+"tour": "Stake Ranked Episode 6",
+"tslug": "stake-ranked-episode-6",
+"p1": 0.436,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"disfar-ados-vs-9z-academy-2026-11-19": {
+"slug": "disfar-ados-vs-9z-academy-2026-11-19",
+"ts": 1795045500,
+"t1": "DISFARÇADOS",
+"t2": "9z Academy",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.613,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

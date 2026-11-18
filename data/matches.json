@@ -8885,7 +8885,7 @@
 "p1": 0.256,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -8995,10 +8995,10 @@
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
 "p1": 0.555,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "notime-vs-spirit-academy-green-2026-11-17": {
@@ -9149,10 +9149,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.617,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "wbt-vs-mouz-nxt-2026-11-19": {
@@ -9205,10 +9205,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.556,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "oldboys-fr-vs-rcave-2026-11-18": {
@@ -9414,7 +9414,7 @@
 "t2": "NoTime",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.538,
+"p1": 0.498,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

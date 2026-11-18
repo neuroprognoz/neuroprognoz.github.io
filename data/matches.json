@@ -8463,10 +8463,10 @@
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
 "p1": 0.446,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": true
 },
 "alka-vs-los-ni-os-2026-11-18": {
@@ -8966,7 +8966,7 @@
 "t2": "Sangal",
 "tour": "Stake Ranked Episode 6",
 "tslug": "stake-ranked-episode-6",
-"p1": 0.553,
+"p1": 0.551,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

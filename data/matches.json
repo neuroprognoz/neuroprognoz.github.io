@@ -8883,10 +8883,10 @@
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.256,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "misa-vs-evermore-2026-11-17": {
@@ -9162,7 +9162,7 @@
 "t2": "MOUZ NXT",
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
-"p1": 0.679,
+"p1": 0.693,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

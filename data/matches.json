@@ -9162,7 +9162,7 @@
 "t2": "MOUZ NXT",
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
-"p1": 0.662,
+"p1": 0.679,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -9303,10 +9303,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.634,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "baks-vs-the-last-resort-2026-11-18": {

@@ -9429,10 +9429,10 @@
 "tour": "CCT Europe 2026 Series 15 Play-In",
 "tslug": "cct-europe-2026-series-15-play-in",
 "p1": 0.476,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "meia-noite-vs-rush-2026-11-20": {
@@ -9765,10 +9765,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.423,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "fortress-vs-aimers-2026-11-19": {
@@ -9779,10 +9779,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.428,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "fokus-vs-aces-2026-11-20": {

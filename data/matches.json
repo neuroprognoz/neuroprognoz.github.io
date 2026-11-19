@@ -9868,5 +9868,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"rcave-vs-glitchtech-2026-11-20": {
+"slug": "rcave-vs-glitchtech-2026-11-20",
+"ts": 1795199400,
+"t1": "Rcave",
+"t2": "Glitchtech",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.319,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

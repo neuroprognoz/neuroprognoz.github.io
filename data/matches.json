@@ -9577,7 +9577,7 @@
 },
 "aimclub-vs-nexus-2026-11-19": {
 "slug": "aimclub-vs-nexus-2026-11-19",
-"ts": 1795113000,
+"ts": 1795113900,
 "t1": "aimclub",
 "t2": "Nexus",
 "tour": "CCT Europe 2026 Series 14",
@@ -9681,10 +9681,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.609,
-"st": "current",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "lph-vs-the-chosen-few-2026-11-19": {

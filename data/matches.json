@@ -9079,10 +9079,10 @@
 "tour": "CCT Europe 2026 Series 15 Play-In",
 "tslug": "cct-europe-2026-series-15-play-in",
 "p1": 0.739,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "gamerlegion-vs-unity-2026-11-18": {

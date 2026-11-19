@@ -9798,5 +9798,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"disfar-ados-vs-red-canids-academy-2026-11-20": {
+"slug": "disfar-ados-vs-red-canids-academy-2026-11-20",
+"ts": 1795194000,
+"t1": "DISFARÇADOS",
+"t2": "RED Canids Academy",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.22,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"borracheiros-vs-hunters-rising-2026-11-20": {
+"slug": "borracheiros-vs-hunters-rising-2026-11-20",
+"ts": 1795194000,
+"t1": "BORRACHEIROS",
+"t2": "Hunters Rising",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.704,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

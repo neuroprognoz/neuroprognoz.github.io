@@ -10008,5 +10008,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ex-inox-vs-wbt-2026-11-20": {
+"slug": "ex-inox-vs-wbt-2026-11-20",
+"ts": 1795174200,
+"t1": "ex-INOX",
+"t2": "WBT",
+"tour": "European Pro League Series 10",
+"tslug": "european-pro-league-series-10",
+"p1": 0.508,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

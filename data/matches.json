@@ -9882,5 +9882,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"nt-vs-baks-2026-11-20": {
+"slug": "nt-vs-baks-2026-11-20",
+"ts": 1795165200,
+"t1": "NT",
+"t2": "BAKS",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.384,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"genone-vs-leo-2026-11-20": {
+"slug": "genone-vs-leo-2026-11-20",
+"ts": 1795197600,
+"t1": "GenOne",
+"t2": "Leo",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.452,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

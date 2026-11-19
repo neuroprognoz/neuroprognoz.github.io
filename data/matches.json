@@ -10078,5 +10078,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"luminosity-vs-big-2026-11-20": {
+"slug": "luminosity-vs-big-2026-11-20",
+"ts": 1795179600,
+"t1": "Luminosity",
+"t2": "BIG",
+"tour": "Stake Ranked Episode 6",
+"tslug": "stake-ranked-episode-6",
+"p1": 0.357,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"honv-d-vs-revise-2026-11-20": {
+"slug": "honv-d-vs-revise-2026-11-20",
+"ts": 1795176000,
+"t1": "Honvéd",
+"t2": "Revise",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.574,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"misa-vs-prestige-2026-11-20": {
+"slug": "misa-vs-prestige-2026-11-20",
+"ts": 1795186800,
+"t1": "Misa",
+"t2": "Prestige",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.398,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"vexar-vs-azuolas-2026-11-20": {
+"slug": "vexar-vs-azuolas-2026-11-20",
+"ts": 1795197600,
+"t1": "Vexar",
+"t2": "Azuolas",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.687,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

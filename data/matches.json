@@ -9583,10 +9583,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.363,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "ninjas-in-pyjamas-vs-big-2026-11-19": {
@@ -9918,7 +9918,7 @@
 "t2": "Nexus",
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
-"p1": 0.35,
+"p1": 0.346,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

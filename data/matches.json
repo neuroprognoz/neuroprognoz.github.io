@@ -9577,7 +9577,7 @@
 },
 "aimclub-vs-nexus-2026-11-19": {
 "slug": "aimclub-vs-nexus-2026-11-19",
-"ts": 1795111200,
+"ts": 1795113000,
 "t1": "aimclub",
 "t2": "Nexus",
 "tour": "CCT Europe 2026 Series 14",
@@ -9597,10 +9597,10 @@
 "tour": "Stake Ranked Episode 6",
 "tslug": "stake-ranked-episode-6",
 "p1": 0.637,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "inner-circle-vs-gamerlegion-2026-11-19": {

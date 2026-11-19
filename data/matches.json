@@ -9485,10 +9485,10 @@
 "tour": "Stake Ranked Episode 6",
 "tslug": "stake-ranked-episode-6",
 "p1": 0.452,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "disfar-ados-vs-9z-academy-2026-11-19": {
@@ -9723,10 +9723,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.526,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "glitchtech-vs-growth-lab-esports-2026-11-19": {
@@ -9792,7 +9792,7 @@
 "t2": "Aces",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.589,
+"p1": 0.588,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

@@ -10036,5 +10036,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"lazer-cats-vs-hype-tech-2026-11-20": {
+"slug": "lazer-cats-vs-hype-tech-2026-11-20",
+"ts": 1795176000,
+"t1": "Lazer Cats",
+"t2": "Hype Tech",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.384,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"kuusamo-vs-s-kerorg-2026-11-20": {
+"slug": "kuusamo-vs-s-kerorg-2026-11-20",
+"ts": 1795186800,
+"t1": "KUUSAMO",
+"t2": "Sökerorg",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.295,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

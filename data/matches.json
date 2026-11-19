@@ -9569,10 +9569,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.4,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "aimclub-vs-nexus-2026-11-19": {
@@ -10016,7 +10016,7 @@
 "t2": "WBT",
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
-"p1": 0.501,
+"p1": 0.491,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

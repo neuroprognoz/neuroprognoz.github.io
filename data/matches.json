@@ -9840,5 +9840,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"mira-vs-underworld-2026-11-20": {
+"slug": "mira-vs-underworld-2026-11-20",
+"ts": 1795122000,
+"t1": "Mira",
+"t2": "Underworld",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.7,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"9z-academy-vs-los-ni-os-2026-11-20": {
+"slug": "9z-academy-vs-los-ni-os-2026-11-20",
+"ts": 1795122000,
+"t1": "9z Academy",
+"t2": "Los Niños",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.311,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

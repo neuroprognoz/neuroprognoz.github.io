@@ -9784,5 +9784,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"fokus-vs-aces-2026-11-20": {
+"slug": "fokus-vs-aces-2026-11-20",
+"ts": 1795186800,
+"t1": "FOKUS",
+"t2": "Aces",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.611,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

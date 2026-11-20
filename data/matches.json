@@ -10218,5 +10218,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"betclic-vs-forze-reload-2026-11-21": {
+"slug": "betclic-vs-forze-reload-2026-11-21",
+"ts": 1795284000,
+"t1": "Betclic",
+"t2": "FORZE Reload",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.55,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"illyrians-vs-lilmix-2026-11-21": {
+"slug": "illyrians-vs-lilmix-2026-11-21",
+"ts": 1795284000,
+"t1": "Illyrians",
+"t2": "Lilmix",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.781,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

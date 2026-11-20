@@ -10255,10 +10255,10 @@
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
 "p1": 0.416,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 2,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "rush-vs-mira-2026-11-21": {
@@ -10437,6 +10437,20 @@
 "tour": "Dust2.dk Ligaen Season 33",
 "tslug": "dust2-dk-ligaen-season-33",
 "p1": 0.826,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"bbl-vs-sinners-2026-11-21": {
+"slug": "bbl-vs-sinners-2026-11-21",
+"ts": 1795276800,
+"t1": "BBL",
+"t2": "SINNERS",
+"tour": "RUSH:Brno 2026",
+"tslug": "rush-brno-2026",
+"p1": 0.406,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

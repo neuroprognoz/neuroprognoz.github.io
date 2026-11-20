@@ -9471,10 +9471,10 @@
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
 "p1": 0.272,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "luminosity-vs-sangal-2026-11-19": {
@@ -10226,7 +10226,7 @@
 "t2": "FORZE Reload",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.55,
+"p1": 0.546,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

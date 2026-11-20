@@ -10204,5 +10204,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"infinite-vs-baks-2026-11-21": {
+"slug": "infinite-vs-baks-2026-11-21",
+"ts": 1795273200,
+"t1": "INFINITE",
+"t2": "BAKS",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.348,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

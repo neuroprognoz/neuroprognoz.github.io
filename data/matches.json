@@ -10246,5 +10246,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"pain-academy-vs-los-ni-os-2026-11-21": {
+"slug": "pain-academy-vs-los-ni-os-2026-11-21",
+"ts": 1795208400,
+"t1": "paiN Academy",
+"t2": "Los Niños",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.416,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"rush-vs-mira-2026-11-21": {
+"slug": "rush-vs-mira-2026-11-21",
+"ts": 1795218300,
+"t1": "RUSH",
+"t2": "Mira",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.479,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

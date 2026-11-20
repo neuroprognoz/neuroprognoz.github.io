@@ -10274,5 +10274,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"fire-flux-vs-eternal-premium-2026-11-20": {
+"slug": "fire-flux-vs-eternal-premium-2026-11-20",
+"ts": 1795190400,
+"t1": "Fire Flux",
+"t2": "eternal premium",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.729,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"jumbo-vs-bangaranga-2026-11-20": {
+"slug": "jumbo-vs-bangaranga-2026-11-20",
+"ts": 1795194000,
+"t1": "JUMBO",
+"t2": "BANGARANGA",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.422,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"rcave-vs-y23-2026-11-20": {
+"slug": "rcave-vs-y23-2026-11-20",
+"ts": 1795194000,
+"t1": "Rcave",
+"t2": "Y23",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.203,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"99firepower-1utility-vs-bangaranga-2026-11-20": {
+"slug": "99firepower-1utility-vs-bangaranga-2026-11-20",
+"ts": 1795199400,
+"t1": "99firepower 1utility",
+"t2": "BANGARANGA",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.568,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

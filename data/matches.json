@@ -10003,10 +10003,10 @@
 "tour": "Gamers Club Liga Série A: November 2026",
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
 "p1": 0.366,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "ex-inox-vs-wbt-2026-11-20": {

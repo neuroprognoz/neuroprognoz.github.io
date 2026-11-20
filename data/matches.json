@@ -9641,7 +9641,7 @@
 "p1": 0.638,
 "st": "current",
 "s1": 1,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -10045,10 +10045,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.376,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "kuusamo-vs-s-kerorg-2026-11-20": {
@@ -10072,7 +10072,7 @@
 "t2": "Hype Tech",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.614,
+"p1": 0.578,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

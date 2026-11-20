@@ -10148,5 +10148,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"rune-eaters-vs-butterfly-2026-11-20": {
+"slug": "rune-eaters-vs-butterfly-2026-11-20",
+"ts": 1795186800,
+"t1": "Rune Eaters",
+"t2": "Butterfly",
+"tour": "CCT Europe 2026 Series 14",
+"tslug": "cct-europe-2026-series-14",
+"p1": 0.312,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"g2-ares-vs-megoshort-2026-11-20": {
+"slug": "g2-ares-vs-megoshort-2026-11-20",
+"ts": 1795176000,
+"t1": "G2 Ares",
+"t2": "megoshort",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.629,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"azuolas-vs-phantom-academy-2026-11-21": {
+"slug": "azuolas-vs-phantom-academy-2026-11-21",
+"ts": 1795251600,
+"t1": "Azuolas",
+"t2": "Phantom Academy",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.248,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

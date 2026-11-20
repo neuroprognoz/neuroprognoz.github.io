@@ -9821,10 +9821,10 @@
 "tour": "Gamers Club Liga Série A: November 2026",
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
 "p1": 0.707,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "wbt-vs-phantom-2026-11-20": {
@@ -9933,7 +9933,7 @@
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
 "p1": 0.646,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,

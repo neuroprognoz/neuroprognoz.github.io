@@ -9907,7 +9907,7 @@
 "p1": 0.501,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -10325,10 +10325,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.568,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "meia-noite-vs-alka-2026-11-22": {

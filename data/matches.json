@@ -9443,10 +9443,10 @@
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
 "p1": 0.514,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "alka-vs-pain-academy-2026-11-20": {
@@ -9513,10 +9513,10 @@
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
 "p1": 0.864,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "without-a-roof-vs-nutorious-2026-11-19": {
@@ -10002,7 +10002,7 @@
 "t2": "RUSH",
 "tour": "Gamers Club Liga Série A: November 2026",
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
-"p1": 0.336,
+"p1": 0.359,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

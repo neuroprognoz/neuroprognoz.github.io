@@ -10610,5 +10610,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"rbls-vs-abt-2026-11-21": {
+"slug": "rbls-vs-abt-2026-11-21",
+"ts": 1795260600,
+"t1": "RBLS",
+"t2": "ABT",
+"tour": "Master League Portugal Season 19",
+"tslug": "master-league-portugal-season-19",
+"p1": 0.804,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

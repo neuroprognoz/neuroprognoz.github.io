@@ -10445,7 +10445,7 @@
 },
 "bbl-vs-sinners-2026-11-21": {
 "slug": "bbl-vs-sinners-2026-11-21",
-"ts": 1795276800,
+"ts": 1795278600,
 "t1": "BBL",
 "t2": "SINNERS",
 "tour": "RUSH:Brno 2026",
@@ -10493,10 +10493,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.604,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "glitchtech-vs-growth-lab-esports-2026-11-22": {

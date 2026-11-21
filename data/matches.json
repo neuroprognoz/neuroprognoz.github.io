@@ -10381,10 +10381,10 @@
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
 "p1": 0.378,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "alliance-vs-envy-2026-11-21": {

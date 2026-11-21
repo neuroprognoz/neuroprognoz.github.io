@@ -10199,10 +10199,10 @@
 "tour": "CCT Europe 2026 Series 15 Play-In",
 "tslug": "cct-europe-2026-series-15-play-in",
 "p1": 0.433,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "infinite-vs-baks-2026-11-21": {
@@ -10397,7 +10397,7 @@
 "p1": 0.753,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -10688,7 +10688,7 @@
 "t2": "Celestial",
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
-"p1": 0.399,
+"p1": 0.401,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

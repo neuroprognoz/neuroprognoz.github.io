@@ -10535,10 +10535,10 @@
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.61,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "baks-vs-butterfly-2026-11-21": {
@@ -10619,10 +10619,10 @@
 "tour": "Master League Portugal Season 19",
 "tslug": "master-league-portugal-season-19",
 "p1": 0.804,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "33-vs-phantom-2026-11-22": {

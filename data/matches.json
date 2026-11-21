@@ -10339,10 +10339,10 @@
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
 "p1": 0.536,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "overtake-sector-vs-detonate-2026-11-22": {
@@ -10800,7 +10800,7 @@
 "t2": "SINNERS",
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
-"p1": 0.26,
+"p1": 0.258,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

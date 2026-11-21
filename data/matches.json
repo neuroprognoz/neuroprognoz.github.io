@@ -10498,5 +10498,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"glitchtech-vs-growth-lab-esports-2026-11-22": {
+"slug": "glitchtech-vs-growth-lab-esports-2026-11-22",
+"ts": 1795356000,
+"t1": "Glitchtech",
+"t2": "Growth Lab Esports",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.598,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

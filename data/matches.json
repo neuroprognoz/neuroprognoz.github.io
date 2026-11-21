@@ -10470,5 +10470,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"gelo-vs-jumbo-2026-11-21": {
+"slug": "gelo-vs-jumbo-2026-11-21",
+"ts": 1795269600,
+"t1": "Gelo",
+"t2": "JUMBO",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.435,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"zotix-vs-gelo-2026-11-21": {
+"slug": "zotix-vs-gelo-2026-11-21",
+"ts": 1795273200,
+"t1": "ZOTIX",
+"t2": "Gelo",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.604,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

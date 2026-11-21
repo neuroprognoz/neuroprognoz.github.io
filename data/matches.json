@@ -10750,5 +10750,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"azuolas-vs-illyrians-2026-11-22": {
+"slug": "azuolas-vs-illyrians-2026-11-22",
+"ts": 1795338000,
+"t1": "Azuolas",
+"t2": "Illyrians",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.234,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"lunacy-vs-mouz-nxt-2026-11-22": {
+"slug": "lunacy-vs-mouz-nxt-2026-11-22",
+"ts": 1795370400,
+"t1": "Lunacy",
+"t2": "MOUZ NXT",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.441,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"phantom-academy-vs-lilmix-2026-11-22": {
+"slug": "phantom-academy-vs-lilmix-2026-11-22",
+"ts": 1795359600,
+"t1": "Phantom Academy",
+"t2": "Lilmix",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.724,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

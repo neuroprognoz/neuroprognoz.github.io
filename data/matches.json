@@ -10582,5 +10582,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"infurity-vs-kamui-2026-11-21": {
+"slug": "infurity-vs-kamui-2026-11-21",
+"ts": 1795251600,
+"t1": "INFURITY",
+"t2": "KAMUI",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.429,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"pcific-vs-evermore-2026-11-21": {
+"slug": "pcific-vs-evermore-2026-11-21",
+"ts": 1795262400,
+"t1": "PCIFIC",
+"t2": "Evermore",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.727,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

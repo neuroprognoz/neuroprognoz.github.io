@@ -10437,10 +10437,10 @@
 "tour": "Dust2.dk Ligaen Season 33",
 "tslug": "dust2-dk-ligaen-season-33",
 "p1": 0.814,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "bbl-vs-sinners-2026-11-21": {
@@ -10605,10 +10605,10 @@
 "tour": "Fiesta Series 4",
 "tslug": "fiesta-series-4",
 "p1": 0.727,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "rbls-vs-abt-2026-11-21": {
@@ -10688,7 +10688,7 @@
 "t2": "Celestial",
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
-"p1": 0.401,
+"p1": 0.399,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

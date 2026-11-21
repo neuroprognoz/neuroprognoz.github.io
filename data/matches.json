@@ -10221,7 +10221,7 @@
 },
 "betclic-vs-forze-reload-2026-11-21": {
 "slug": "betclic-vs-forze-reload-2026-11-21",
-"ts": 1795284000,
+"ts": 1795285800,
 "t1": "Betclic",
 "t2": "FORZE Reload",
 "tour": "NODWIN Clutch Series 14",
@@ -10395,10 +10395,10 @@
 "tour": "RUSH:Brno 2026",
 "tslug": "rush-brno-2026",
 "p1": 0.753,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 2,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "forze-reload-vs-wbt-2026-11-22": {
@@ -10543,7 +10543,7 @@
 },
 "baks-vs-butterfly-2026-11-21": {
 "slug": "baks-vs-butterfly-2026-11-21",
-"ts": 1795284000,
+"ts": 1795285800,
 "t1": "BAKS",
 "t2": "Butterfly",
 "tour": "CCT Europe 2026 Series 14",

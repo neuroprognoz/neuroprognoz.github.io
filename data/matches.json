@@ -10143,10 +10143,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.815,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "rune-eaters-vs-butterfly-2026-11-20": {
@@ -10708,5 +10708,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"los-ni-os-vs-rush-2026-11-22": {
+"slug": "los-ni-os-vs-rush-2026-11-22",
+"ts": 1795304700,
+"t1": "Los Niños",
+"t2": "RUSH",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.444,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

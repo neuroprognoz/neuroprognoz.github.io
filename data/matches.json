@@ -10073,10 +10073,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.572,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "luminosity-vs-big-2026-11-20": {
@@ -10522,7 +10522,7 @@
 "tslug": "cct-europe-2026-series-14",
 "p1": 0.681,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": false

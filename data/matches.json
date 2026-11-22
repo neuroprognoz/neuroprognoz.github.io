@@ -10815,10 +10815,10 @@
 "tour": "Fiesta Series 4",
 "tslug": "fiesta-series-4",
 "p1": 0.546,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "vexar-vs-benched-gods-2026-11-22": {

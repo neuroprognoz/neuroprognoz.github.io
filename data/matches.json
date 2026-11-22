@@ -10409,10 +10409,10 @@
 "tour": "European Pro League Series 10",
 "tslug": "european-pro-league-series-10",
 "p1": 0.663,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 3,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "masonic-vs-eac-2026-11-21": {
@@ -10926,7 +10926,7 @@
 "t2": "Aces",
 "tour": "CCT Europe 2026 Series 14",
 "tslug": "cct-europe-2026-series-14",
-"p1": 0.42,
+"p1": 0.425,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

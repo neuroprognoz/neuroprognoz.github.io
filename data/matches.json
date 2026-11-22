@@ -10633,10 +10633,10 @@
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
 "p1": 0.487,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "masonic-vs-eac-extra-2026-11-21": {
@@ -10870,7 +10870,7 @@
 "t2": "RUSH",
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
-"p1": 0.523,
+"p1": 0.527,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

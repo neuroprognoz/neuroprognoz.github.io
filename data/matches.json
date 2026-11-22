@@ -10806,5 +10806,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"revise-vs-astron-2026-11-22": {
+"slug": "revise-vs-astron-2026-11-22",
+"ts": 1795338000,
+"t1": "Revise",
+"t2": "ASTRON",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.546,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"vexar-vs-benched-gods-2026-11-22": {
+"slug": "vexar-vs-benched-gods-2026-11-22",
+"ts": 1795348800,
+"t1": "Vexar",
+"t2": "benched gods",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.54,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"misa-vs-illyrians-2026-11-22": {
+"slug": "misa-vs-illyrians-2026-11-22",
+"ts": 1795359600,
+"t1": "Misa",
+"t2": "Illyrians",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.458,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"lph-vs-los-kogutos-2026-11-22": {
+"slug": "lph-vs-los-kogutos-2026-11-22",
+"ts": 1795370400,
+"t1": "LPH",
+"t2": "los kogutos",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.278,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

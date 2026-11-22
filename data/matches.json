@@ -10890,5 +10890,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"iberian-soul-vs-aces-2026-11-22": {
+"slug": "iberian-soul-vs-aces-2026-11-22",
+"ts": 1795370400,
+"t1": "Iberian Soul",
+"t2": "Aces",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.468,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"nuclear-tigeres-vs-betclic-2026-11-22": {
+"slug": "nuclear-tigeres-vs-betclic-2026-11-22",
+"ts": 1795359600,
+"t1": "Nuclear TigeRES",
+"t2": "Betclic",
+"tour": "NODWIN Clutch Series 14",
+"tslug": "nodwin-clutch-series-14",
+"p1": 0.567,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

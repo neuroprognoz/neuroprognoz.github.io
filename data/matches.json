@@ -10829,10 +10829,10 @@
 "tour": "Fiesta Series 4",
 "tslug": "fiesta-series-4",
 "p1": 0.538,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "misa-vs-illyrians-2026-11-22": {

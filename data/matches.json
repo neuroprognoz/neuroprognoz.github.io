@@ -11240,5 +11240,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"illyrians-vs-phantom-academy-2026-11-23": {
+"slug": "illyrians-vs-phantom-academy-2026-11-23",
+"ts": 1795446000,
+"t1": "Illyrians",
+"t2": "Phantom Academy",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.546,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"infurity-vs-lunacy-2026-11-23": {
+"slug": "infurity-vs-lunacy-2026-11-23",
+"ts": 1795456800,
+"t1": "INFURITY",
+"t2": "Lunacy",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.586,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

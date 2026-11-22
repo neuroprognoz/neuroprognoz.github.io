@@ -10803,7 +10803,7 @@
 "p1": 0.275,
 "st": "current",
 "s1": 1,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -10843,10 +10843,10 @@
 "tour": "Fiesta Series 4",
 "tslug": "fiesta-series-4",
 "p1": 0.447,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "lph-vs-los-kogutos-2026-11-22": {
@@ -10893,12 +10893,12 @@
 },
 "iberian-soul-vs-aces-2026-11-22": {
 "slug": "iberian-soul-vs-aces-2026-11-22",
-"ts": 1795370400,
+"ts": 1795377600,
 "t1": "Iberian Soul",
 "t2": "Aces",
 "tour": "NODWIN Clutch Series 14",
 "tslug": "nodwin-clutch-series-14",
-"p1": 0.464,
+"p1": 0.465,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

@@ -11044,5 +11044,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"empire-vs-addice-2026-11-24": {
+"slug": "empire-vs-addice-2026-11-24",
+"ts": 1795482000,
+"t1": "EMPIRE",
+"t2": "Addice",
+"tour": "CROSSFIRE Season 7",
+"tslug": "crossfire-season-7",
+"p1": 0.613,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

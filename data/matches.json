@@ -10507,7 +10507,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.596,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -11058,5 +11058,47 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"villainous-vs-wanted-goons-2026-11-24": {
+"slug": "villainous-vs-wanted-goons-2026-11-24",
+"ts": 1795485600,
+"t1": "Villainous",
+"t2": "Wanted Goons",
+"tour": "CROSSFIRE Season 7",
+"tslug": "crossfire-season-7",
+"p1": 0.565,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"feistein-vs-elusive-2026-11-24": {
+"slug": "feistein-vs-elusive-2026-11-24",
+"ts": 1795485600,
+"t1": "Feistein",
+"t2": "Elusive",
+"tour": "CROSSFIRE Season 7",
+"tslug": "crossfire-season-7",
+"p1": 0.515,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"marsborne-vs-overtake-sector-2026-11-24": {
+"slug": "marsborne-vs-overtake-sector-2026-11-24",
+"ts": 1795485600,
+"t1": "Marsborne",
+"t2": "Overtake Sector",
+"tour": "CROSSFIRE Season 7",
+"tslug": "crossfire-season-7",
+"p1": 0.761,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

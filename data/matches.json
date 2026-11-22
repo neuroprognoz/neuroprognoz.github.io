@@ -10988,5 +10988,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"banger-gang-vs-fire-flux-2026-11-22": {
+"slug": "banger-gang-vs-fire-flux-2026-11-22",
+"ts": 1795377600,
+"t1": "Banger Gang",
+"t2": "Fire Flux",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.29,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"banger-gang-vs-jumbo-2026-11-22": {
+"slug": "banger-gang-vs-jumbo-2026-11-22",
+"ts": 1795366800,
+"t1": "Banger Gang",
+"t2": "JUMBO",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.616,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"sinqu-vs-lph-2026-11-22": {
+"slug": "sinqu-vs-lph-2026-11-22",
+"ts": 1795366800,
+"t1": "SINQU",
+"t2": "LPH",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.357,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"al-ahli-vs-fire-flux-2026-11-22": {
+"slug": "al-ahli-vs-fire-flux-2026-11-22",
+"ts": 1795374000,
+"t1": "Al Ahli",
+"t2": "Fire Flux",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.258,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

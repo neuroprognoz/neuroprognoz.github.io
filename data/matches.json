@@ -11464,5 +11464,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ttg-esports-vs-zotix-2026-11-25": {
+"slug": "ttg-esports-vs-zotix-2026-11-25",
+"ts": 1795556700,
+"t1": "TTG Esports",
+"t2": "ZOTIX",
+"tour": "CCT Europe 2026 Contenders 11",
+"tslug": "cct-europe-2026-contenders-11",
+"p1": 0.806,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

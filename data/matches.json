@@ -10955,10 +10955,10 @@
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
 "p1": 0.822,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "feistein-vs-elusive-2026-11-23": {
@@ -11309,6 +11309,20 @@
 "s1": 2,
 "s2": 1,
 "ok": false,
+"noindex": false
+},
+"boyband-vs-bojong-2026-11-24": {
+"slug": "boyband-vs-bojong-2026-11-24",
+"ts": 1795534200,
+"t1": "boyband",
+"t2": "BOJONG",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.573,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
 "noindex": false
 }
 }

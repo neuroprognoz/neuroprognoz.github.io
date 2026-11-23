@@ -11263,10 +11263,10 @@
 "tour": "CCT Europe 2026 Series 15 Play-In",
 "tslug": "cct-europe-2026-series-15-play-in",
 "p1": 0.641,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 2,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "donstu-vs-fortress-2026-11-24": {

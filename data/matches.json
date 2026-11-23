@@ -11324,5 +11324,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"havu-vs-kuusamo-2026-11-24": {
+"slug": "havu-vs-kuusamo-2026-11-24",
+"ts": 1795543200,
+"t1": "HAVU",
+"t2": "KUUSAMO",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.731,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

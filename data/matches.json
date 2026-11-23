@@ -10871,10 +10871,10 @@
 "tour": "CCT South America 2026 Challengers 4",
 "tslug": "cct-south-america-2026-challengers-4",
 "p1": 0.527,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "sinqu-vs-rounds-2026-11-23": {
@@ -11248,7 +11248,7 @@
 "t2": "Phantom Academy",
 "tour": "CCT Europe 2026 Series 15 Play-In",
 "tslug": "cct-europe-2026-series-15-play-in",
-"p1": 0.548,
+"p1": 0.547,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

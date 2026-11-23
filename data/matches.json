@@ -11492,5 +11492,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"s-kerorg-vs-lunacy-2026-11-24": {
+"slug": "s-kerorg-vs-lunacy-2026-11-24",
+"ts": 1795521600,
+"t1": "Sökerorg",
+"t2": "Lunacy",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.619,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"drama-vs-phantom-academy-2026-11-24": {
+"slug": "drama-vs-phantom-academy-2026-11-24",
+"ts": 1795532400,
+"t1": "Drama",
+"t2": "Phantom Academy",
+"tour": "CCT Europe 2026 Series 15 Play-In",
+"tslug": "cct-europe-2026-series-15-play-in",
+"p1": 0.461,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

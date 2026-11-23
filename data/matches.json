@@ -11249,10 +11249,10 @@
 "tour": "CCT Europe 2026 Series 15 Play-In",
 "tslug": "cct-europe-2026-series-15-play-in",
 "p1": 0.547,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "infurity-vs-lunacy-2026-11-23": {

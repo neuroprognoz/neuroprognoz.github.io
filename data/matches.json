@@ -10703,10 +10703,10 @@
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
 "p1": 0.467,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": true
 },
 "los-ni-os-vs-rush-2026-11-22": {

@@ -11207,10 +11207,10 @@
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
 "p1": 0.664,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "faze-vs-wildcard-2026-11-24": {

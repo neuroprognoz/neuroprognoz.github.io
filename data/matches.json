@@ -11520,5 +11520,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ryvex-vs-lvlt-2026-11-25": {
+"slug": "ryvex-vs-lvlt-2026-11-25",
+"ts": 1795606200,
+"t1": "Ryvex",
+"t2": "LVLT",
+"tour": "European Pro League Series 11 Play-In",
+"tslug": "european-pro-league-series-11-play-in",
+"p1": 0.554,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"fire-flux-vs-fortress-2026-11-25": {
+"slug": "fire-flux-vs-fortress-2026-11-25",
+"ts": 1795606200,
+"t1": "Fire Flux",
+"t2": "Fortress",
+"tour": "United21 Season 59",
+"tslug": "united21-season-59",
+"p1": 0.873,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

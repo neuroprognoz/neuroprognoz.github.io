@@ -11296,5 +11296,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"rush-vs-alka-2026-11-23": {
+"slug": "rush-vs-alka-2026-11-23",
+"ts": 1795393500,
+"t1": "RUSH",
+"t2": "ALKA",
+"tour": "CCT South America 2026 Challengers 4",
+"tslug": "cct-south-america-2026-challengers-4",
+"p1": 0.495,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": false,
+"noindex": false
 }
 }

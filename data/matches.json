@@ -11338,5 +11338,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"tropa-do-micha-vs-mira-2026-11-24": {
+"slug": "tropa-do-micha-vs-mira-2026-11-24",
+"ts": 1795545000,
+"t1": "TROPA DO MICHA",
+"t2": "Mira",
+"tour": "Gamers Club Liga Série A: November 2026",
+"tslug": "gamers-club-liga-s-rie-a-november-2026",
+"p1": 0.377,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

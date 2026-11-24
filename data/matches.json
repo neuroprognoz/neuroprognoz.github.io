@@ -11403,10 +11403,10 @@
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
 "p1": 0.669,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "inner-circle-academy-vs-passion-academy-2026-11-24": {

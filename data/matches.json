@@ -11431,10 +11431,10 @@
 "tour": "Gamers Club Liga Série A: November 2026",
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
 "p1": 0.507,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "infinite-talent-vs-thechampiongg-2026-11-24": {

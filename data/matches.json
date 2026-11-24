@@ -11327,7 +11327,7 @@
 },
 "havu-vs-kuusamo-2026-11-24": {
 "slug": "havu-vs-kuusamo-2026-11-24",
-"ts": 1795543200,
+"ts": 1795545000,
 "t1": "HAVU",
 "t2": "KUUSAMO",
 "tour": "Elisa Open Suomi Season 14",
@@ -11767,10 +11767,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.79,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "9z-vs-m80-2026-11-24": {

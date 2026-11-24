@@ -11487,10 +11487,10 @@
 "tour": "CCT Europe 2026 Contenders 11",
 "tslug": "cct-europe-2026-contenders-11",
 "p1": 0.447,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": true
 },
 "s-kerorg-vs-lunacy-2026-11-24": {

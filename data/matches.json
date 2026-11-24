@@ -11347,10 +11347,10 @@
 "tour": "Gamers Club Liga Série A: November 2026",
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
 "p1": 0.373,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 2,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "iberian-soul-vs-virtus-pro-2026-11-23": {
@@ -11425,12 +11425,12 @@
 },
 "meia-noite-vs-red-canids-academy-2026-11-25": {
 "slug": "meia-noite-vs-red-canids-academy-2026-11-25",
-"ts": 1795555800,
+"ts": 1795554000,
 "t1": "MEIA NOITE",
 "t2": "RED Canids Academy",
 "tour": "Gamers Club Liga Série A: November 2026",
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
-"p1": 0.509,
+"p1": 0.507,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -11753,10 +11753,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.628,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "young-tigeres-vs-rounds-2026-11-24": {

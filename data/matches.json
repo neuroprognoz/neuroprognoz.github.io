@@ -10689,10 +10689,10 @@
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
 "p1": 0.404,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": true
 },
 "flyquest-red-vs-axial-2026-11-23": {

@@ -11475,7 +11475,7 @@
 "p1": 0.82,
 "st": "current",
 "s1": 1,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -12038,5 +12038,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"young-tigeres-vs-abt-2026-11-26": {
+"slug": "young-tigeres-vs-abt-2026-11-26",
+"ts": 1795692600,
+"t1": "Young TigeRES",
+"t2": "ABT",
+"tour": "European Pro League Series 11 Play-In",
+"tslug": "european-pro-league-series-11-play-in",
+"p1": 0.575,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

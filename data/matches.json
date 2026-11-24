@@ -11333,10 +11333,10 @@
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.73,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "tropa-do-micha-vs-mira-2026-11-24": {

@@ -11641,10 +11641,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.504,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "b8-academy-vs-partizan-2026-11-24": {
@@ -11655,10 +11655,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.613,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "xi-vs-oldboys-fr-2026-11-24": {
@@ -11683,10 +11683,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.893,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "falcons-force-vs-y23-2026-11-25": {
@@ -12024,5 +12024,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"kamui-vs-tulpar-2026-11-26": {
+"slug": "kamui-vs-tulpar-2026-11-26",
+"ts": 1795683600,
+"t1": "KAMUI",
+"t2": "Tulpar",
+"tour": "European Pro League Series 11 Play-In",
+"tslug": "european-pro-league-series-11-play-in",
+"p1": 0.701,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

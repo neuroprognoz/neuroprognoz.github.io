@@ -11349,7 +11349,7 @@
 "p1": 0.373,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": true
 },
@@ -11542,7 +11542,7 @@
 "t2": "Fortress",
 "tour": "United21 Season 59",
 "tslug": "united21-season-59",
-"p1": 0.889,
+"p1": 0.892,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -11585,10 +11585,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.877,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "bangaranga-vs-banger-gang-2026-11-24": {

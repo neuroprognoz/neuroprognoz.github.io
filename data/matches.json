@@ -11067,10 +11067,10 @@
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
 "p1": 0.565,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "feistein-vs-elusive-2026-11-24": {

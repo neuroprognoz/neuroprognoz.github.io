@@ -11137,10 +11137,10 @@
 "tour": "PGL Major Singapore 2026 Stage 1",
 "tslug": "pgl-major-singapore-2026-stage-1",
 "p1": 0.541,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "100-thieves-vs-chinggis-warriors-2026-11-24": {
@@ -11187,7 +11187,7 @@
 },
 "parivision-vs-dendele-2026-11-24": {
 "slug": "parivision-vs-dendele-2026-11-24",
-"ts": 1795500000,
+"ts": 1795500900,
 "t1": "PARIVISION",
 "t2": "DENDELE",
 "tour": "PGL Major Singapore 2026 Stage 1",

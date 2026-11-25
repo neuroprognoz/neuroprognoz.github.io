@@ -12430,5 +12430,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"bangaranga-vs-eternal-premium-2026-11-25": {
+"slug": "bangaranga-vs-eternal-premium-2026-11-25",
+"ts": 1795633200,
+"t1": "BANGARANGA",
+"t2": "eternal premium",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.417,
+"st": "finished",
+"s1": 2,
+"s2": 0,
+"ok": false,
+"noindex": false
 }
 }

@@ -12360,5 +12360,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"inner-circle-prospect-vs-partizan-2026-11-26": {
+"slug": "inner-circle-prospect-vs-partizan-2026-11-26",
+"ts": 1795719600,
+"t1": "Inner Circle Prospect",
+"t2": "PARTIZAN",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.481,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"al-ahli-vs-fire-flux-2026-11-26": {
+"slug": "al-ahli-vs-fire-flux-2026-11-26",
+"ts": 1795719600,
+"t1": "Al Ahli",
+"t2": "Fire Flux",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.223,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"zotix-vs-esuba-2026-11-26": {
+"slug": "zotix-vs-esuba-2026-11-26",
+"ts": 1795719600,
+"t1": "ZOTIX",
+"t2": "eSuba",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.499,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"99firepower-1utility-vs-oldboys-pl-2026-11-26": {
+"slug": "99firepower-1utility-vs-oldboys-pl-2026-11-26",
+"ts": 1795719600,
+"t1": "99firepower 1utility",
+"t2": "OLDBOYS PL",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.302,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

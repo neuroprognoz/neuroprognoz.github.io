@@ -11531,7 +11531,7 @@
 "p1": 0.556,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": true
 },
@@ -12046,7 +12046,7 @@
 "t2": "ABT",
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
-"p1": 0.592,
+"p1": 0.593,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

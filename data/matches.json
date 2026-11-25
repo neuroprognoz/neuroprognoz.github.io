@@ -11558,7 +11558,7 @@
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
 "p1": 0.375,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -12237,7 +12237,7 @@
 },
 "ttg-esports-vs-vitality-academy-2026-11-26": {
 "slug": "ttg-esports-vs-vitality-academy-2026-11-26",
-"ts": 1795719600,
+"ts": 1795716000,
 "t1": "TTG Esports",
 "t2": "Vitality Academy",
 "tour": "ESEA Season 59: Advanced Division - Europe",

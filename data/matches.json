@@ -11473,10 +11473,10 @@
 "tour": "CCT Europe 2026 Contenders 11",
 "tslug": "cct-europe-2026-contenders-11",
 "p1": 0.82,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "vtk-vs-haze-2026-11-24": {
@@ -12018,7 +12018,7 @@
 "t2": "Sökerorg",
 "tour": "CCT Europe 2026 Series 16 Play-In",
 "tslug": "cct-europe-2026-series-16-play-in",
-"p1": 0.484,
+"p1": 0.491,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

@@ -11557,10 +11557,10 @@
 "tour": "Gamers Club Liga Série A: November 2026",
 "tslug": "gamers-club-liga-s-rie-a-november-2026",
 "p1": 0.375,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "vitality-academy-vs-sinqu-2026-11-24": {
@@ -12046,7 +12046,7 @@
 "t2": "ABT",
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
-"p1": 0.592,
+"p1": 0.593,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

@@ -11907,10 +11907,10 @@
 "tour": "PGL Major Singapore 2026 Stage 1",
 "tslug": "pgl-major-singapore-2026-stage-1",
 "p1": 0.5,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "9z-vs-dendele-2026-11-25": {
@@ -11929,7 +11929,7 @@
 },
 "imperial-vs-flyquest-2026-11-25": {
 "slug": "imperial-vs-flyquest-2026-11-25",
-"ts": 1795593600,
+"ts": 1795594500,
 "t1": "Imperial",
 "t2": "FlyQuest",
 "tour": "PGL Major Singapore 2026 Stage 1",

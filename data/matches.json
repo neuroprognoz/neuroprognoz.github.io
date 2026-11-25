@@ -12075,10 +12075,10 @@
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
 "p1": 0.797,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "baks-vs-nordic-partners-2026-11-26": {

@@ -12444,5 +12444,19 @@
 "s2": 0,
 "ok": false,
 "noindex": false
+},
+"bebop-vs-spirit-academy-green-2026-11-27": {
+"slug": "bebop-vs-spirit-academy-green-2026-11-27",
+"ts": 1795779000,
+"t1": "Bebop",
+"t2": "Spirit Academy Green",
+"tour": "European Pro League Series 11 Play-In",
+"tslug": "european-pro-league-series-11-play-in",
+"p1": 0.477,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -12052,5 +12052,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ex-ence-vs-leo-2026-11-25": {
+"slug": "ex-ence-vs-leo-2026-11-25",
+"ts": 1795597200,
+"t1": "ex-ENCE",
+"t2": "Leo",
+"tour": "CCT Europe 2026 Series 15",
+"tslug": "cct-europe-2026-series-15",
+"p1": 0.372,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"butterfly-vs-lunacy-2026-11-25": {
+"slug": "butterfly-vs-lunacy-2026-11-25",
+"ts": 1795608000,
+"t1": "Butterfly",
+"t2": "Lunacy",
+"tour": "CCT Europe 2026 Series 15",
+"tslug": "cct-europe-2026-series-15",
+"p1": 0.797,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"baks-vs-nordic-partners-2026-11-26": {
+"slug": "baks-vs-nordic-partners-2026-11-26",
+"ts": 1795705200,
+"t1": "BAKS",
+"t2": "Nordic Partners",
+"tour": "CCT Europe 2026 Series 15",
+"tslug": "cct-europe-2026-series-15",
+"p1": 0.721,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"eternal-premium-vs-bangaranga-2026-11-25": {
+"slug": "eternal-premium-vs-bangaranga-2026-11-25",
+"ts": 1795633200,
+"t1": "eternal premium",
+"t2": "BANGARANGA",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.416,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

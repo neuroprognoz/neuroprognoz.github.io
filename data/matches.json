@@ -12005,10 +12005,10 @@
 "tour": "CCT Europe 2026 Series 16 Play-In",
 "tslug": "cct-europe-2026-series-16-play-in",
 "p1": 0.513,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "drama-vs-s-kerorg-2026-11-25": {
@@ -12088,7 +12088,7 @@
 "t2": "Nordic Partners",
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
-"p1": 0.721,
+"p1": 0.723,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

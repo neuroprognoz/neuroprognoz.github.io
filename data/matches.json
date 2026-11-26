@@ -12313,10 +12313,10 @@
 "tour": "PGL Major Singapore 2026 Stage 1",
 "tslug": "pgl-major-singapore-2026-stage-1",
 "p1": 0.526,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "lynn-vision-vs-parivision-2026-11-26": {

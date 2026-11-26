@@ -11977,10 +11977,10 @@
 "tour": "CROSSFIRE Season 7",
 "tslug": "crossfire-season-7",
 "p1": 0.607,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "spirit-academy-vs-quintessence-2026-11-25": {
@@ -12228,7 +12228,7 @@
 "t2": "OldBoys FR",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.293,
+"p1": 0.292,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

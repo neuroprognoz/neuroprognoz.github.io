@@ -12033,10 +12033,10 @@
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
 "p1": 0.685,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": true
 },
 "young-tigeres-vs-abt-2026-11-26": {
@@ -12335,7 +12335,7 @@
 },
 "wildcard-vs-chinggis-warriors-2026-11-26": {
 "slug": "wildcard-vs-chinggis-warriors-2026-11-26",
-"ts": 1795690800,
+"ts": 1795694400,
 "t1": "Wildcard",
 "t2": "Chinggis Warriors",
 "tour": "PGL Major Singapore 2026 Stage 1",
@@ -12496,7 +12496,7 @@
 "tslug": "cct-europe-2026-series-16-play-in",
 "p1": 0.512,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": false

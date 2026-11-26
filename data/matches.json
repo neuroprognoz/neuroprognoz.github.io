@@ -12228,7 +12228,7 @@
 "t2": "OldBoys FR",
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
-"p1": 0.292,
+"p1": 0.293,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -12341,10 +12341,10 @@
 "tour": "PGL Major Singapore 2026 Stage 1",
 "tslug": "pgl-major-singapore-2026-stage-1",
 "p1": 0.73,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "imperial-vs-liquid-2026-11-26": {

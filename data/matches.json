@@ -12201,10 +12201,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.462,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "esuba-vs-zotix-2026-11-26": {
@@ -12243,10 +12243,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.701,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "oldboys-pl-vs-99firepower-1utility-2026-11-26": {

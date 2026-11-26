@@ -12542,5 +12542,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"bojong-vs-havu-2026-11-27": {
+"slug": "bojong-vs-havu-2026-11-27",
+"ts": 1795802400,
+"t1": "BOJONG",
+"t2": "HAVU",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.262,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

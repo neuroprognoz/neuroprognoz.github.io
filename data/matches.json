@@ -12654,5 +12654,19 @@
 "s2": 1,
 "ok": false,
 "noindex": false
+},
+"ex-sashi-academy-vs-fortress-2026-11-28": {
+"slug": "ex-sashi-academy-vs-fortress-2026-11-28",
+"ts": 1795856400,
+"t1": "ex-Sashi Academy",
+"t2": "Fortress",
+"tour": "European Pro League Series 11 Play-In",
+"tslug": "european-pro-league-series-11-play-in",
+"p1": 0.591,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

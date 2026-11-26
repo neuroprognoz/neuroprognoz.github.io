@@ -12117,10 +12117,10 @@
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
 "p1": 0.808,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "b8-academy-vs-jumbo-2026-11-26": {

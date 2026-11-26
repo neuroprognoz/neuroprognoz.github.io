@@ -12486,5 +12486,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"quintessence-vs-saw-youngsters-2026-11-26": {
+"slug": "quintessence-vs-saw-youngsters-2026-11-26",
+"ts": 1795683600,
+"t1": "Quintessence",
+"t2": "SAW Youngsters",
+"tour": "CCT Europe 2026 Series 16 Play-In",
+"tslug": "cct-europe-2026-series-16-play-in",
+"p1": 0.512,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"nordic-partners-vs-drama-2026-11-26": {
+"slug": "nordic-partners-vs-drama-2026-11-26",
+"ts": 1795694400,
+"t1": "Nordic Partners",
+"t2": "Drama",
+"tour": "CCT Europe 2026 Series 16 Play-In",
+"tslug": "cct-europe-2026-series-16-play-in",
+"p1": 0.469,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"azuolas-vs-honv-d-2026-11-27": {
+"slug": "azuolas-vs-honv-d-2026-11-27",
+"ts": 1795780800,
+"t1": "Azuolas",
+"t2": "Honvéd",
+"tour": "CCT Europe 2026 Series 16 Play-In",
+"tslug": "cct-europe-2026-series-16-play-in",
+"p1": 0.3,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

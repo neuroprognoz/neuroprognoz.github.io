@@ -12173,7 +12173,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.519,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -12452,7 +12452,7 @@
 "t2": "Spirit Academy Green",
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
-"p1": 0.469,
+"p1": 0.482,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -12481,7 +12481,7 @@
 "tour": "CCT Europe 2026 Series 16 Play-In",
 "tslug": "cct-europe-2026-series-16-play-in",
 "p1": 0.481,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -12639,6 +12639,20 @@
 "s1": 0,
 "s2": 0,
 "ok": null,
+"noindex": false
+},
+"falcons-force-vs-spirit-academy-green-2026-11-26": {
+"slug": "falcons-force-vs-spirit-academy-green-2026-11-26",
+"ts": 1795708800,
+"t1": "Falcons Force",
+"t2": "Spirit Academy Green",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.386,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": false,
 "noindex": false
 }
 }

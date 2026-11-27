@@ -12537,10 +12537,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.552,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "bojong-vs-havu-2026-11-27": {
@@ -12858,7 +12858,7 @@
 "t2": "Eternal Fire",
 "tour": "PGL Major Singapore 2026 Stage 2",
 "tslug": "pgl-major-singapore-2026-stage-2",
-"p1": 0.462,
+"p1": 0.461,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

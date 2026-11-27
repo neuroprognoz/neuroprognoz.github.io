@@ -12719,10 +12719,10 @@
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
 "p1": 0.453,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": true
 },
 "nordic-partners-vs-xmeta-2026-11-27": {

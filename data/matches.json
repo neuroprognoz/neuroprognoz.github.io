@@ -12551,10 +12551,10 @@
 "tour": "Elisa Open Suomi Season 14",
 "tslug": "elisa-open-suomi-season-14",
 "p1": 0.274,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "red-canids-academy-vs-gr-mio-2026-11-27": {
@@ -12858,7 +12858,7 @@
 "t2": "Eternal Fire",
 "tour": "PGL Major Singapore 2026 Stage 2",
 "tslug": "pgl-major-singapore-2026-stage-2",
-"p1": 0.461,
+"p1": 0.462,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

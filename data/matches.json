@@ -12545,7 +12545,7 @@
 },
 "bojong-vs-havu-2026-11-27": {
 "slug": "bojong-vs-havu-2026-11-27",
-"ts": 1795802400,
+"ts": 1795804200,
 "t1": "BOJONG",
 "t2": "HAVU",
 "tour": "Elisa Open Suomi Season 14",
@@ -12733,10 +12733,10 @@
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
 "p1": 0.426,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": true
 },
 "forze-reload-vs-leo-2026-11-28": {

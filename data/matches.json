@@ -12523,10 +12523,10 @@
 "tour": "CCT Europe 2026 Series 16 Play-In",
 "tslug": "cct-europe-2026-series-16-play-in",
 "p1": 0.311,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "young-tigeres-vs-xi-2026-11-27": {
@@ -12774,7 +12774,7 @@
 "t2": "Spirit Academy",
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
-"p1": 0.413,
+"p1": 0.412,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

@@ -12696,5 +12696,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"s-kerorg-vs-revise-2026-11-27": {
+"slug": "s-kerorg-vs-revise-2026-11-27",
+"ts": 1795770000,
+"t1": "Sökerorg",
+"t2": "Revise",
+"tour": "European Pro League Series 11 Play-In",
+"tslug": "european-pro-league-series-11-play-in",
+"p1": 0.624,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

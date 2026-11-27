@@ -12425,10 +12425,10 @@
 "tour": "CCT Europe 2026 Series 16 Play-In",
 "tslug": "cct-europe-2026-series-16-play-in",
 "p1": 0.536,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "bangaranga-vs-eternal-premium-2026-11-25": {
@@ -12690,7 +12690,7 @@
 "t2": "DONSTU",
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
-"p1": 0.425,
+"p1": 0.428,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

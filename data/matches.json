@@ -12663,10 +12663,10 @@
 "tour": "European Pro League Series 11 Play-In",
 "tslug": "european-pro-league-series-11-play-in",
 "p1": 0.556,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "lunacy-vs-megoshort-2026-11-27": {
@@ -12749,7 +12749,7 @@
 "p1": 0.68,
 "st": "current",
 "s1": 1,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },

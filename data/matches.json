@@ -12749,7 +12749,7 @@
 "p1": 0.68,
 "st": "current",
 "s1": 1,
-"s2": 1,
+"s2": 2,
 "ok": null,
 "noindex": false
 },
@@ -13082,7 +13082,7 @@
 "t2": "Astralis",
 "tour": "PGL Major Singapore 2026 Stage 2",
 "tslug": "pgl-major-singapore-2026-stage-2",
-"p1": 0.719,
+"p1": 0.717,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

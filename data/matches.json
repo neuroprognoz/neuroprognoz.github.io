@@ -12920,5 +12920,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"masonic-vs-azuolas-2026-11-28": {
+"slug": "masonic-vs-azuolas-2026-11-28",
+"ts": 1795856400,
+"t1": "MASONIC",
+"t2": "Azuolas",
+"tour": "CCT Europe 2026 Series 16 Play-In",
+"tslug": "cct-europe-2026-series-16-play-in",
+"p1": 0.704,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"mouz-nxt-vs-honv-d-2026-11-28": {
+"slug": "mouz-nxt-vs-honv-d-2026-11-28",
+"ts": 1795878000,
+"t1": "MOUZ NXT",
+"t2": "Honvéd",
+"tour": "CCT Europe 2026 Series 16 Play-In",
+"tslug": "cct-europe-2026-series-16-play-in",
+"p1": 0.527,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

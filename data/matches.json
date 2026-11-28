@@ -12943,10 +12943,10 @@
 "tour": "CCT Europe 2026 Series 16 Play-In",
 "tslug": "cct-europe-2026-series-16-play-in",
 "p1": 0.527,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "zotix-vs-esuba-2026-11-29": {

@@ -12906,5 +12906,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"prestige-vs-havu-2026-11-28": {
+"slug": "prestige-vs-havu-2026-11-28",
+"ts": 1795888800,
+"t1": "Prestige",
+"t2": "HAVU",
+"tour": "Elisa Open Suomi Season 14",
+"tslug": "elisa-open-suomi-season-14",
+"p1": 0.563,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

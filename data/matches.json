@@ -12761,10 +12761,10 @@
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
 "p1": 0.511,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "aimclub-vs-spirit-academy-2026-11-28": {

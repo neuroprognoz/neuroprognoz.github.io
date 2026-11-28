@@ -12747,10 +12747,10 @@
 "tour": "CCT Europe 2026 Series 15",
 "tslug": "cct-europe-2026-series-15",
 "p1": 0.68,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 2,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "hype-tech-vs-baks-2026-11-28": {
@@ -13082,7 +13082,7 @@
 "t2": "Astralis",
 "tour": "PGL Major Singapore 2026 Stage 2",
 "tslug": "pgl-major-singapore-2026-stage-2",
-"p1": 0.717,
+"p1": 0.716,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

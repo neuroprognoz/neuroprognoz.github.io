@@ -13041,10 +13041,10 @@
 "tour": "PGL Major Singapore 2026 Stage 2",
 "tslug": "pgl-major-singapore-2026-stage-2",
 "p1": 0.581,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "fut-vs-100-thieves-2026-11-28": {
@@ -13063,7 +13063,7 @@
 },
 "flyquest-vs-parivision-2026-11-28": {
 "slug": "flyquest-vs-parivision-2026-11-28",
-"ts": 1795871700,
+"ts": 1795872600,
 "t1": "FlyQuest",
 "t2": "PARIVISION",
 "tour": "PGL Major Singapore 2026 Stage 2",

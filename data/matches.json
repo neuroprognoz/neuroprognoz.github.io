@@ -12976,5 +12976,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"pcific-vs-genone-2026-11-28": {
+"slug": "pcific-vs-genone-2026-11-28",
+"ts": 1795878000,
+"t1": "PCIFIC",
+"t2": "GenOne",
+"tour": "Fiesta Series 4",
+"tslug": "fiesta-series-4",
+"p1": 0.627,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

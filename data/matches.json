@@ -12892,5 +12892,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"aces-vs-lunacy-2026-11-28": {
+"slug": "aces-vs-lunacy-2026-11-28",
+"ts": 1795867200,
+"t1": "Aces",
+"t2": "Lunacy",
+"tour": "CCT Europe 2026 Series 15",
+"tslug": "cct-europe-2026-series-15",
+"p1": 0.835,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

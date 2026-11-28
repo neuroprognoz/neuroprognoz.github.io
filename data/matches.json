@@ -12817,10 +12817,10 @@
 "tour": "PGL Major Singapore 2026 Stage 2",
 "tslug": "pgl-major-singapore-2026-stage-2",
 "p1": 0.466,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "fut-vs-flyquest-2026-11-28": {
@@ -12873,10 +12873,10 @@
 "tour": "PGL Major Singapore 2026 Stage 2",
 "tslug": "pgl-major-singapore-2026-stage-2",
 "p1": 0.676,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "sinqu-vs-bojong-2026-11-28": {
